@@ -1,0 +1,3472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BRS_GameText_Translations -->
+<!-- Author: Sanakan -->
+<!-- DateCreated: 1/22/2024 6:44:53 PM -->
+<GameData>
+	<LocalizedText>
+		<!--_____CN Simplified_____-->
+		<!--_CONFIG_-->
+		<!-- Civilization Names and Descriptions -->
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_NAME" Language="zh_Hans_CN">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION_SGA_CIVILIZATION" Language="zh_Hans_CN">
+			<Text>黑岩射手</Text>
+		</Row>
+		<!-- Pedia -->
+		<Row Tag="LOC_CIVINFO_SGA_BRS_LOCATION" Language="zh_Hans_CN">
+			<Text>异世界</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_POPULATION" Language="zh_Hans_CN">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_SIZE" Language="zh_Hans_CN">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_CAPITAL" Language="zh_Hans_CN">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>未知</Text>
+		</Row>
+		<!-- Cities -->
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_1" Language="zh_Hans_CN">
+			<Text>虚空世界</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_2" Language="zh_Hans_CN">
+			<Text>京都</Text>
+		</Row>
+		<!-- Citizens -->
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MALE_1" Language="zh_Hans_CN">
+			<Text>某个人</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_MALE_1" Language="zh_Hans_CN">
+			<Text>一个家伙</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_FEMALE_1" Language="zh_Hans_CN">
+			<Text>黑乃真央</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>斯特拉</Text>
+		</Row>
+		<!-- Leader -->
+		<Row Tag="LOC_LEADER_SGA_BRS_NAME" Language="zh_Hans_CN">
+			<Text>黑岩射手</Text>
+		</Row>
+		<!-- DOM -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SGA_BRS" Language="zh_Hans_CN">
+			<Text>黑岩射手，你是笼罩在神秘之中世界的守护者，你的力量是黑暗中的灯塔。你会利用未知的力量引领你的人民走向伟大吗？</Text>
+		</Row>
+		<!-- CIVILOPEDIA -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_TITLE" Language="zh_Hans_CN">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_SUBTITLE" Language="zh_Hans_CN">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_QUOTE" Language="zh_Hans_CN">
+			<Text>我会继续战斗。我必须接受这些伤痛，因为只有我的世界结束，我的战斗才会结束。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>未知</Text>
+		</Row>
+		<!--_DIPLOMACY_-->
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"..."（黑岩射手以沉默的点头确认了你的存在，她的目光强烈却又遥远。）</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"亲自看看。"（她的话语虽少，但向她的城市的手势是明确的邀请。）</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"我会去的。"（她的回答简洁，语气中透露出一丝好奇。）</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"交换？"（她的一个词是一个明确的，虽然安静的，提议交换首都信息。）</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"你好。"（一个简单的问候，但她的眼神似乎传达了更多。）</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"接受了。"（她的声音低沉但清晰，点头接受了你的代表团。）</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"现在不行。"（她的话语不多，拒绝礼貌但坚定。）</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"礼物..."（黑岩射手派出一个沉默的使者带着礼物。）</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"同意。"（她的回应简洁，点头允许你进入她的领土。）</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"不行。"（一个词，她拒绝开放边界的决定清晰且坚定。）</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"边界...？"（她的一个词是一个明确的，虽然简短的，请求开放边界。）</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"友谊...接受了。"（她的声音柔和，几乎是耳语，接受了你的友谊提议。）</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"现在不行。"（她的回应简短，表示拒绝了你的友谊，没有进一步的解释。）</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"我信任你。加入我吗？"（她的声音虽然安静但坚定，伸出友谊的手，带着罕见的温暖。）</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"谢谢。"（对你接受她的友谊的简单、安静的确认。）</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"嗯..."（一个低沉、深思的咕哝，似乎对玩家的拒绝既感到好笑又感到好奇。）</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"让我们站在一起...？"（她的声音低沉但清晰，伸出手寻求联盟。）</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"好。"（黑岩射手的一个简短的点头和一个词表达了她对你行为的认可。）</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"小心。"（她冷冷的目光和一个词作为警告，你正走在危险的道路上。）</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"解释。"（她的目光变得严厉，看着你在她边境的部队，要求解释。）</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"同意。"（黑岩射手轻轻点头和一个词表示她接受了贸易协议。）</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"不成交。"（她的话语不多，但她拒绝接受贸易协议的决定很明确。）</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"那就这样吧。"（黑岩射手的目光坚定地回应了你的谴责，她的回应平静却坚定。）</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"不明智。"（在罕见的情感表现中，黑岩射手的眼睛微微眯起，她的谴责简洁明了。）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"哦，好..."（黑岩射手的眼睛闪烁着蓝色的火焰。）</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"无法回头。"（黑岩射手目光坚定，准备好她的大炮，她宣战的话语预示着不祥。）</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"同意。"（在罕见的让步时刻，黑岩射手轻轻点头，同意了休战。）</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"还不行。"（黑岩射手保持不动，她的话语表明战争远未结束。）</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"休战？"（黑岩射手，以罕见的外交姿态，伸出手，提出了一个沉默的休战。）</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>"..."（在失败中，黑岩射手坚定地站立，她的沉默传达了对命运的坚忍接受。）</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hans_CN">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY]</Text>
+		</Row>
+		<!--_TRAITS_-->
+		<!--LEADER TRAIT-->
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_NAME" Language="zh_Hans_CN">
+			<Text>燃烧之眼</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>黑岩射手的“燃烧之眼”能力在她参战的回合激活，为所有[ICON_Unit]单位提供+10[ICON_Strength]战斗力和+1[ICON_Movement]移动力，持续1[ICON_Turn]回合。每击败一个敌方[ICON_Unit]单位，“燃烧之眼”能力增加+1[ICON_Turn]回合。</Text>
+		</Row>
+		<!--NOTIFICATION-->
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_TITLE" Language="zh_Hans_CN">
+			<Text>燃烧之眼主动技能</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_MESSAGE" Language="zh_Hans_CN">
+			<Text>你的单位获得+{1_Amount}[ICON_Strength]战斗力和+{2_Amount}[ICON_Movement]移动力加成，持续{3_Amount}[ICON_Turn]回合。</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_TITLE" Language="zh_Hans_CN">
+			<Text>两个世界被动技能</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_MESSAGE" Language="zh_Hans_CN">
+			<Text>你在敌方领土中的军事[ICON_Unit]单位本回合获得+{1_Amount}[ICON_Strength]战斗力加成。</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_NAME" Language="zh_Hans_CN">
+			<Text>两个世界</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在敌方领土中的军事[ICON_Unit]单位获得等同于黑岩射手领土中军事[ICON_Unit]单位数量的[ICON_Strength]战斗奖励。拥有异世界节点[ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS]区域的每个城市获得+20%的[ICON_Science]科学、[ICON_Production]生产和[ICON_Gold]黄金，而没有该区域的每个城市获得+20%的[ICON_Culture]文化、[ICON_Food]食物和[ICON_Faith]信仰。</Text>
+		</Row>
+		<!--DISTRICTS-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_NAME" Language="zh_Hans_CN">
+			<Text>异世界节点</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>黑岩的新颖独特区域，是黑岩步兵单位和两个世界文明特性的异世界奖励[ICON_Science][ICON_Production][ICON_Gold]收益的先决条件。提供各种相邻奖励。当黑岩射手参与战争并且区域建设完成时，异世界[ICON_Barbarian]野蛮人会从异世界出现。野蛮人单位根据玩家之前训练的最强[ICON_Unit]单位类别随机生成。</Text>
+		</Row>
+		<!--ADJACENCIES-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>异界节点区域提供+3[ICON_Science]科学相邻加成。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_CULTURE_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>异界节点区域提供+3[ICON_Culture]文化相邻加成。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_NEGATIVE_GOLD_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>异界节点区域提供-2[ICON_Gold]金钱相邻加成。</Text>
+		</Row>
+		<!--AQUEDUCT-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_FOOD_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>渠道区域提供+2[ICON_Food]食物相邻加成。</Text>
+		</Row>
+		<!--CAMPUS-->
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>校园区域提供+2[ICON_Science]科学相邻加成。</Text>
+		</Row>
+		<!--HOLY SITE-->
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>圣地区域提供+2[ICON_Faith]信仰相邻加成。</Text>
+		</Row>
+		<!--COMMERCIAL HUB-->
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_GOLD_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>商业中心区域提供+2[ICON_Gold]金钱相邻加成。</Text>
+		</Row>
+		<!--INDUSTRIAL ZONE-->
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_PRODUCTION_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工业区域提供+2[ICON_Production]生产相邻加成。</Text>
+		</Row>
+		<!--THEATER-->
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>剧院区域提供+2[ICON_Culture]文化相邻加成。</Text>
+		</Row>
+		<!--HARBOR-->
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>港口区域提供+1[ICON_Gold]金钱相邻加成。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_FOOD_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>港口区域提供+1[ICON_Food]食物相邻加成。</Text>
+		</Row>
+		<!--Encampment-->
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_PRODUCTION_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>兵营区域提供+1[ICON_Production]生产相邻加成。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_GOLD_ADJACENCY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>兵营区域提供+1[ICON_Gold]金钱相邻加成。</Text>
+		</Row>
+		<!--UNITS-->
+		<!--BRI-->
+		<Row Tag="LOC_UNIT_SGA_BRS_BRI_NAME" Language="zh_Hans_CN">
+			<Text>黑岩步兵</Text>
+		</Row>
+		<Row Tag="LOC_SGA_BRS_BRI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>黑岩射手的独特单位，替代了机械化步兵单位，并拥有独特的黑岩晋升树。需要[ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS]异界节点区。</Text>
+		</Row>
+		<!--UNIT PROMOTIONS AND ABILITIES-->
+		<!--PROMOTIONS-->
+		<!--PROMOTION CLASSES-->
+		<Row Tag="PROMOTION_CLASS_SGA_BRS_BLACK_ROCK_INFANTRY_NAME" Language="zh_Hans_CN">
+			<Text>黑岩</Text>
+		</Row>
+		<!--UNIT PROMOTIONS-->
+		<!--HUNTER KILLER PROMOTIONS-->
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_NAME" Language="zh_Hans_CN">
+			<Text>本土防御</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在本土领土内+3[ICON_Strength]战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_NAME" Language="zh_Hans_CN">
+			<Text>攻击后移动</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在敌方领土内攻击后如果还有足够的移动力则可以移动。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_NAME" Language="zh_Hans_CN">
+			<Text>本土射程</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在本土领土内+1[ICON_Range]射程。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_NAME" Language="zh_Hans_CN">
+			<Text>每回合治疗</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在本土领土内每回合治疗25生命值。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_NAME" Language="zh_Hans_CN">
+			<Text>移动力</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在敌方领土内+1[ICON_Movement]移动力。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_NAME" Language="zh_Hans_CN">
+			<Text>战斗中治疗</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在敌方领土内击败敌人单位后恢复50生命值。</Text>
+		</Row>
+		<!--MODIFIER STRINGS-->
+		<Row Tag="LOC_BRI_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>黑岩战斗晋升+3。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_BURNING_EYE_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>燃烧之眼领袖能力+{3_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_TWO_WORLDS_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>两个世界文明能力+{3_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_CULTURE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>没有异界节点+{1_Amount}文化。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FOOD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>没有异界节点+{1_Amount}食物。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FAITH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>没有异界节点+{1_Amount}信仰。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_SCIENCE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有异界节点+{1_Amount}科学。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_PRODUCTION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有异界节点+{1_Amount}生产。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_GOLD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有异界节点+{1_Amount}金钱。</Text>
+		</Row>
+		<!--_____CN Trad_____-->
+		<!--_CONFIG_-->
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_NAME" Language="zh_Hant_HK">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_ADJECTIVE" Language="zh_Hant_HK">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION_SGA_CIVILIZATION" Language="zh_Hant_HK">
+			<Text>黑岩射手</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_SGA_BRS_LOCATION" Language="zh_Hant_HK">
+			<Text>異界</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_POPULATION" Language="zh_Hant_HK">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_SIZE" Language="zh_Hant_HK">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_CAPITAL" Language="zh_Hant_HK">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>未知</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_1" Language="zh_Hant_HK">
+			<Text>虛空世界</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_2" Language="zh_Hant_HK">
+			<Text>京都</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_3" Language="zh_Hant_HK">
+			<Text>大阪</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_4" Language="zh_Hant_HK">
+			<Text>廣島</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_5" Language="zh_Hant_HK">
+			<Text>札幌</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_6" Language="zh_Hant_HK">
+			<Text>名古屋</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_7" Language="zh_Hant_HK">
+			<Text>福岡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_8" Language="zh_Hant_HK">
+			<Text>神戶</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_9" Language="zh_Hant_HK">
+			<Text>橫濱</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_10" Language="zh_Hant_HK">
+			<Text>仙台</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_11" Language="zh_Hant_HK">
+			<Text>奈良</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_12" Language="zh_Hant_HK">
+			<Text>金澤</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_13" Language="zh_Hant_HK">
+			<Text>長崎</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_14" Language="zh_Hant_HK">
+			<Text>沖繩</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_15" Language="zh_Hant_HK">
+			<Text>埼玉</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_16" Language="zh_Hant_HK">
+			<Text>熊本</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_17" Language="zh_Hant_HK">
+			<Text>高山</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_18" Language="zh_Hant_HK">
+			<Text>函館</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_19" Language="zh_Hant_HK">
+			<Text>鹿兒島</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_20" Language="zh_Hant_HK">
+			<Text>松山</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_21" Language="zh_Hant_HK">
+			<Text>黑岩射手的戰場</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_22" Language="zh_Hant_HK">
+			<Text>戰車之地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_23" Language="zh_Hant_HK">
+			<Text>死亡大師的巢穴</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_24" Language="zh_Hant_HK">
+			<Text>東京</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_25" Language="zh_Hant_HK">
+			<Text>異界</Text>
+		</Row>
+		<!--CITIZENS-->
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MALE_1" Language="zh_Hant_HK">
+			<Text>某個人</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_MALE_1" Language="zh_Hant_HK">
+			<Text>一個傢伙</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_FEMALE_1" Language="zh_Hant_HK">
+			<Text>黑乃真央</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_FEMALE_1" Language="zh_Hant_HK">
+			<Text>斯特拉</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SGA_BRS_NAME" Language="zh_Hant_HK">
+			<Text>黑岩射手</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SGA_BRS" Language="zh_Hant_HK">
+			<Text>黑岩射手，神秘世界的守護者，你的力量是黑暗中的燈塔。你會利用未知的力量引領你的人民走向偉大嗎？</Text>
+		</Row>
+		<!--CIVILOPDEIA-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_TITLE" Language="zh_Hant_HK">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_SUBTITLE" Language="zh_Hant_HK">
+			<Text>黑岩射手</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_QUOTE" Language="zh_Hant_HK">
+			<Text>我會繼續戰鬥。我必須擁抱這些傷痛，因為只有我的世界結束，我的戰鬥才會結束。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>未知</Text>
+		</Row>
+		<!--_DIPLOMACY_-->
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"..."（黑岩射手以沉默的點頭確認了你的存在，她的目光強烈卻又遙遠。）</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"親自看看。"（她的話語雖少，但向她的城市的手勢是明確的邀請。）</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"我會去的。"（她的回答簡潔，語氣中透露出一絲好奇。）</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"交換？"（她的一個詞是一個明確的，雖然安靜的，提議交換首都信息。）</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"你好。"（一個簡單的問候，但她的眼神似乎傳達了更多。）</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"接受了。"（她的聲音低沉但清晰，點頭接受了你的代表團。）</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"現在不行。"（她的話語不多，拒絕禮貌但堅定。）</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"禮物..."（黑岩射手派出一個沉默的使者帶著禮物。）</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"同意。"（她的回應簡潔，點頭允許你進入她的領土。）</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"不行。"（一個詞，她拒絕開放邊界的決定清晰且堅定。）</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"邊界...？"（她的一個詞是一個明確的，雖然簡短的，請求開放邊界。）</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"友誼...接受了。"（她的聲音柔和，幾乎是耳語，接受了你的友誼提議。）</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"現在不行。"（她的回應簡短，表示拒絕了你的友誼，沒有進一步的解釋。）</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"我信任你。加入我嗎？"（她的聲音雖然安靜但堅定，伸出友誼的手，帶著罕見的溫暖。）</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"謝謝。"（對你接受她的友誼的簡單、安靜的確認。）</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"嗯..."（一個低沉、深思的咕嚕，似乎對玩家的拒絕既感到好笑又感到好奇。）</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"讓我們站在一起...？"（她的聲音低沉但清晰，伸出手尋求聯盟。）</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"好。"（黑岩射手的一個簡短的點頭和一個詞表達了她對你行為的認可。）</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"小心。"（她冷冷的目光和一個詞作為警告，你正走在危險的道路上。）</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"解釋。"（她的目光變得嚴厲，看著你在她邊境的部隊，要求解釋。）</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"同意。"（黑岩射手輕輕點頭和一個詞表示她接受了貿易協議。）</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"不成交。"（她的話語不多，但她拒絕接受貿易協議的決定很明確。）</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"那就這樣吧。"（黑岩射手的目光堅定地回應了你的譴責，她的回應平靜卻堅定。）</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"不明智。"（在罕見的情感表現中，黑岩射手的眼睛微微眯起，她的譴責簡潔明了。）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"哦，好..."（黑岩射手的眼睛閃爍著藍色的火焰。）</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"無法回頭。"（黑岩射手目光堅定，準備好她的大炮，她宣戰的話語預示著不祥。）</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"同意。"（在罕見的讓步時刻，黑岩射手輕輕點頭，同意了休戰。）</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"還不行。"（黑岩射手保持不動，她的話語表明戰爭遠未結束。）</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"休戰？"（黑岩射手，以罕見的外交姿態，伸出手，提出了一個沉默的休戰。）</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>"..."（在失敗中，黑岩射手堅定地站立，她的沉默傳達了對命運的堅忍接受。）</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="zh_Hant_HK">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY]</Text>
+		</Row>
+		<!--AI CUSTOM-->
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_BRS_NAME" Language="zh_Hant_HK">
+			<Text>永恆藍焰</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BRS_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩射手的永恆藍焰議程是以下特質的綜合：玩家友邦被譴責、忽視好戰行為、高軍事力量、與盾牌或在其上、討厭核武器、非好戰、是好戰、記得戰爭、記得朋友。</Text>
+		</Row>
+		<!--AGENDA TRAIT-->
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_NAME" Language="zh_Hant_HK">
+			<Text>永恆藍焰</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>佔位文字</Text>
+		</Row>
+		<!--PLAYER FRIEND DENOUNCED-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED" Language="zh_Hant_HK">
+			<Text>"不智..."（她燃燒的目光加劇，警告對她盟友的敵意。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>你譴責了黑岩射手的朋友。</Text>
+		</Row>
+		<!--HIGH STANDING ARMY-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY" Language="zh_Hant_HK">
+			<Text>"..."（黑岩射手尊重地點頭，承認你強大的軍隊，認為你是一個值得的盟友或對手。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>你強大的軍事力量已獲得黑岩射手的尊重。</Text>
+		</Row>
+		<!--WITH YOUR SHIELD OR ON IT-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT" Language="zh_Hant_HK">
+			<Text>"..."（黑岩射手的目光變得堅定，她的沉默清楚地表達了對你面對敵人缺乏決心的失望。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>你選擇屈服而不是戰鬥的決定並未逃過黑岩射手的注意。</Text>
+		</Row>
+		<!--NOT WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER" Language="zh_Hant_HK">
+			<Text>"..."（她遠遠地看著你，顯示出她感到安心。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩射手重視你在全球事務中的和平立場。</Text>
+		</Row>
+		<!--WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER" Language="zh_Hant_HK">
+			<Text>...（她帶著一絲不安地看著你。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩射手不確定是將你視為敵人還是強大的盟友。</Text>
+		</Row>
+		<!--REMEMBERS WAR-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR" Language="zh_Hant_HK">
+			<Text>無法原諒...（她很可能討厭你。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩射手記得你的過錯，永遠將你視為潛在威脅。</Text>
+		</Row>
+		<!--REMEMBERS FRIEND-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND" Language="zh_Hant_HK">
+			<Text>（黑岩射手記得你們的友誼）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩射手記得你們的友誼。</Text>
+		</Row>
+		<!--_TRAITS_-->
+		<!--LEADER TRAIT-->
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_NAME" Language="zh_Hant_HK">
+			<Text>燃燒之眼</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩射手的「燃燒之眼」能力在她參戰的回合啟動，為所有[ICON_Unit]單位提供+10 [ICON_Strength]戰鬥力和+1 [ICON_Movement]移動力，持續1 [ICON_Turn]回合。每擊敗一個敵方[ICON_Unit]單位，「燃燒之眼」能力增加+1 [ICON_Turn]回合。</Text>
+		</Row>
+		<!--NOTIFICATION-->
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_TITLE" Language="zh_Hant_HK">
+			<Text>燃燒之眼主動技能</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_MESSAGE" Language="zh_Hant_HK">
+			<Text>你的單位獲得+{1_Amount}[ICON_Strength]戰鬥力和+{2_Amount}[ICON_Movement]移動力提升，持續{3_Amount}[ICON_Turn]回合。</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_TITLE" Language="zh_Hant_HK">
+			<Text>兩個世界被動技能</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_MESSAGE" Language="zh_Hant_HK">
+			<Text>你在敵方領土中的軍事[ICON_Unit]單位本回合獲得+{1_Amount}[ICON_Strength]戰鬥力加成。</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_NAME" Language="zh_Hant_HK">
+			<Text>兩個世界</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>在敵方領土中的軍事[ICON_Unit]單位獲得等同於黑岩射手領土中軍事[ICON_Unit]單位數量的[ICON_Strength]戰鬥獎勵。擁有異世界節點[ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS]區域的每個城市獲得+20%的[ICON_Science]科學、[ICON_Production]生產和[ICON_Gold]黃金，而沒有該區域的每個城市獲得+20%的[ICON_Culture]文化、[ICON_Food]食物和[ICON_Faith]信仰。</Text>
+		</Row>
+		<!--DISTRICTS-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_NAME" Language="zh_Hant_HK">
+			<Text>異世界節點</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩的新穎獨特區域，是黑岩步兵單位和兩個世界文明特性的異世界獎勵[ICON_Science][ICON_Production][ICON_Gold]收益的先決條件。提供各種相鄰獎勵。當黑岩射手參與戰爭並且區域建設完成時，異世界[ICON_Barbarian]野蠻人會從異世界出現。野蠻人單位根據玩家之前訓練的最強[ICON_Unit]單位類別隨機生成。</Text>
+		</Row>
+		<!--ADJACENCIES-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+3 [ICON_Science]科學相鄰加成來自異界節點區。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_CULTURE_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+3 [ICON_Culture]文化相鄰加成來自異界節點區。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_NEGATIVE_GOLD_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>-2 [ICON_Gold]金錢相鄰加成來自異界節點區。</Text>
+		</Row>
+		<!--AQUEDUCT-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_FOOD_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+2 [ICON_Food]食物相鄰加成來自渠道區。</Text>
+		</Row>
+		<!--CAMPUS-->
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+2 [ICON_Science]科學相鄰加成來自校園區。</Text>
+		</Row>
+		<!--HOLY SITE-->
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+2 [ICON_Faith]信仰相鄰加成來自聖地區。</Text>
+		</Row>
+		<!--COMMERCIAL HUB-->
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_GOLD_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+2 [ICON_Gold]金錢相鄰加成來自商業中心區。</Text>
+		</Row>
+		<!--INDUSTRIAL ZONE-->
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_PRODUCTION_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+2 [ICON_Production]生產相鄰加成來自工業區。</Text>
+		</Row>
+		<!--THEATER-->
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+2 [ICON_Culture]文化相鄰加成來自劇院區。</Text>
+		</Row>
+		<!--HARBOR-->
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+1 [ICON_Gold]金錢相鄰加成來自港口區。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_FOOD_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+1 [ICON_Food]食物相鄰加成來自港口區。</Text>
+		</Row>
+		<!--Encampment-->
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_PRODUCTION_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+1 [ICON_Production]生產相鄰加成來自兵營區。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_GOLD_ADJACENCY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+1 [ICON_Gold]金錢相鄰加成來自兵營區。</Text>
+		</Row>
+		<!--UNITS-->
+		<!--BRI-->
+		<Row Tag="LOC_UNIT_SGA_BRS_BRI_NAME" Language="zh_Hant_HK">
+			<Text>黑岩步兵</Text>
+		</Row>
+		<Row Tag="LOC_SGA_BRS_BRI_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩射手的獨特單位，取代了機械化步兵單位，並擁有獨特的黑岩晉升樹。需要[ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS]異界節點區。</Text>
+		</Row>
+		<!--UNIT PROMOTIONS AND ABILITIES-->
+		<!--PROMOTIONS-->
+		<!--PROMOTION CLASSES-->
+		<Row Tag="PROMOTION_CLASS_SGA_BRS_BLACK_ROCK_INFANTRY_NAME" Language="zh_Hant_HK">
+			<Text>黑岩</Text>
+		</Row>
+		<!--UNIT PROMOTIONS-->
+		<!--HUNTER KILLER PROMOTIONS-->
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_NAME" Language="zh_Hant_HK">
+			<Text>本土防禦</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>在本土領土內+3 [ICON_Strength]戰鬥力。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_NAME" Language="zh_Hant_HK">
+			<Text>攻擊後移動</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>在敵方領土內攻擊後如果還有足夠的移動力則可以移動。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_NAME" Language="zh_Hant_HK">
+			<Text>本土射程</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>在本土領土內+1 [ICON_Range]射程。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_NAME" Language="zh_Hant_HK">
+			<Text>每回合治療</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>在本土領土內每回合治療25生命值。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_NAME" Language="zh_Hant_HK">
+			<Text>移動力</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>在敵方領土內+1 [ICON_Movement]移動力。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_NAME" Language="zh_Hant_HK">
+			<Text>戰鬥中治療</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>在敵方領土內擊敗敵人單位後恢復50生命值。</Text>
+		</Row>
+		<!--MODIFIER STRINGS-->
+		<Row Tag="LOC_BRI_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>黑岩戰鬥晉升+3。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_BURNING_EYE_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>燃燒之眼領袖能力+{3_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_TWO_WORLDS_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>兩個世界文明能力+{3_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_CULTURE_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>沒有異界節點+{1_Amount}文化。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FOOD_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>沒有異界節點+{1_Amount}食物。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FAITH_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>沒有異界節點+{1_Amount}信仰。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_SCIENCE_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有異界節點+{1_Amount}科學。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_PRODUCTION_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有異界節點+{1_Amount}生產。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_GOLD_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有異界節點+{1_Amount}金錢。</Text>
+		</Row>
+		<!--_____JP_____-->
+		<!--_CONFIG_-->
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_NAME" Language="ja_JP">
+			<Text>ブラック★ロックシューター</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION" Language="ja_JP">
+			<Text>ブラック★ロックシューター</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_ADJECTIVE" Language="ja_JP">
+			<Text>ブラック★ロックシューター</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION_SGA_CIVILIZATION" Language="ja_JP">
+			<Text>ブラック★ロックシューター</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_SGA_BRS_LOCATION" Language="ja_JP">
+			<Text>異世界</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_POPULATION" Language="ja_JP">
+			<Text>不明</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_SIZE" Language="ja_JP">
+			<Text>不明</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_CAPITAL" Language="ja_JP">
+			<Text>不明</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>不明</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_1" Language="ja_JP">
+			<Text>ホロウワールド</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_2" Language="ja_JP">
+			<Text>京都</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_3" Language="ja_JP">
+			<Text>大阪</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_4" Language="ja_JP">
+			<Text>広島</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_5" Language="ja_JP">
+			<Text>札幌</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_6" Language="ja_JP">
+			<Text>名古屋</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_7" Language="ja_JP">
+			<Text>福岡</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_8" Language="ja_JP">
+			<Text>神戸</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_9" Language="ja_JP">
+			<Text>横浜</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_10" Language="ja_JP">
+			<Text>仙台</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_11" Language="ja_JP">
+			<Text>奈良</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_12" Language="ja_JP">
+			<Text>金沢</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_13" Language="ja_JP">
+			<Text>長崎</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_14" Language="ja_JP">
+			<Text>沖縄</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_15" Language="ja_JP">
+			<Text>さいたま</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_16" Language="ja_JP">
+			<Text>熊本</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_17" Language="ja_JP">
+			<Text>高山</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_18" Language="ja_JP">
+			<Text>函館</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_19" Language="ja_JP">
+			<Text>鹿児島</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_20" Language="ja_JP">
+			<Text>松山</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_21" Language="ja_JP">
+			<Text>ブラック★ロックシューターの戦場</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_22" Language="ja_JP">
+			<Text>チャリオットの地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_23" Language="ja_JP">
+			<Text>デッドマスターの隠れ家</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_24" Language="ja_JP">
+			<Text>東京</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_25" Language="ja_JP">
+			<Text>異世界</Text>
+		</Row>
+		<!--CITIZENS-->
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MALE_1" Language="ja_JP">
+			<Text>ある男性</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_MALE_1" Language="ja_JP">
+			<Text>ある男</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_FEMALE_1" Language="ja_JP">
+			<Text>黒衣マト</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_FEMALE_1" Language="ja_JP">
+			<Text>ステラ</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SGA_BRS_NAME" Language="ja_JP">
+			<Text>ブラック★ロックシューター</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SGA_BRS" Language="ja_JP">
+			<Text>ブラック★ロックシューター、謎に包まれた世界の守護者。あなたの力は暗闇の中の灯台です。未知の力を使い、あなたの民を偉大さへと導くでしょうか？</Text>
+		</Row>
+		<!--CIVILOPDEIA-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_TITLE" Language="ja_JP">
+			<Text>ブラック★ロックシューター</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_SUBTITLE" Language="ja_JP">
+			<Text>ブラック★ロックシューター</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_QUOTE" Language="ja_JP">
+			<Text>私は戦い続ける。この傷、この痛みを受け入れなければならない。なぜなら、私の戦いは私の世界が終わるまで終わらないから。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>不明</Text>
+		</Row>
+		<!--_DIPLOMACY_-->
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"..."（ブラック★ロックシューターは静かに頷き、あなたの存在を認めます。彼女の視線は強烈でありながら遠くを見ています。）</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"自分の目で確かめて。"（彼女の言葉は少ないですが、彼女の街へのジェスチャーは明確な招待です。）</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"行くわ。"（彼女の返答は簡潔ですが、彼女の口調には好奇心の気配があります。）</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"交換する？"（彼女の一言は、首都情報の交換を提案する明確ながら静かな申し出です。）</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"こんにちは。"（シンプルな挨拶ですが、彼女の目はもっと多くを語っています。）</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"受け入れる。"（彼女の声は低いがはっきりとしており、頷きながらあなたの代表団を受け入れます。）</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"今は遠慮するわ。"（彼女の言葉は少ないですが、丁寧かつ断固とした拒絶です。）</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"贈り物…"（ブラック★ロックシューターは静かな使者を贈り物を持って送ります。）</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"了解。"（彼女の返答は簡潔で、頷きながらあなたに彼女の土地へのアクセスを許可します。）</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"いいえ。"（一言で、彼女は彼女の国境を開くことをはっきりと拒否します。）</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"国境を…？"（彼女の一言は、簡潔ながらも国境開放の要求です。）</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"友情…受け入れる。"（彼女の声は柔らかく、ほとんど囁きのようですが、あなたの友情の申し出を受け入れます。）</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"今は遠慮するわ。"（彼女の返答は簡潔で、あなたの友情を説明なしに拒否します。）</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"信じてる。一緒にいる？"（彼女の声は静かだが確かで、珍しい温かみを持って友情の申し出をします。）</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"ありがとう。"（彼女の友情の受け入れを静かに、簡潔に認めます。）</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"ふむ…"（彼女は低く、思慮深い唸り声を上げます。プレイヤーの拒絶に彼女はともに面白がり、興味を持っています。）</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"一緒に立ち向かおう…？"（彼女の声は低いがはっきりとしており、同盟を結ぶために手を差し伸べます。）</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"良いわ。"（ブラック★ロックシューターの頷きと一言が、あなたの行動を承認します。）</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"注意して。"（彼女の冷たい視線と一言が、あなたが危険な道を歩んでいることへの警告です。）</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"説明して。"（彼女の視線が硬くなり、彼女の国境にいるあなたの軍隊に目を向け、説明を求めます。）</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"了解。"（ブラック★ロックシューターのわずかな頷きと一言が、取引の承認を示します。）</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"取引はなし。"（彼女の言葉は少ないですが、取引を受け入れないことをはっきりと示しています。）</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"それでいい。"（ブラック★ロックシューターの動じない視線が、あなたの非難に冷静かつ断固とした反応を示します。）</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"賢明ではない。"（珍しい感情の表れとして、ブラック★ロックシューターの目が細くなり、彼女の非難は簡潔で明確です。）</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"良かった…"（ブラック★ロックシューターの目が青い炎で輝きます。）</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"引き返せない。"（決意の視線で、ブラック★ロックシューターは彼女の大砲を準備し、戦争を宣言する際に不吉な言葉を発します。）</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"了解。"（珍しい譲歩の瞬間、ブラック★ロックシューターはわずかに頷き、休戦に同意します。）</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"まだよ。"（ブラック★ロックシューターは動じず、戦争がまだ終わっていないことを示します。）</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"休戦はどう？"（外交の珍しいジェスチャーで、ブラック★ロックシューターは手を差し伸べ、静かな休戦を提案します。）</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>"..."（敗北しても、ブラック★ロックシューターは不動の姿勢を保ち、彼女の運命を静かに受け入れます。）</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ja_JP">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY]</Text>
+		</Row>
+		<!--AI CUSTOM-->
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_BRS_NAME" Language="ja_JP">
+			<Text>永遠の青い炎</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BRS_DESCRIPTION" Language="ja_JP">
+			<Text>ブラック★ロックシューターの「永遠の青い炎」アジェンダは、以下の特性の集合体です：プレイヤーの友人を非難、好戦的行動を無視、高い軍事力、盾と共にまたは盾上で、核兵器嫌悪、好戦的でない、好戦的、戦争を記憶、友情を記憶。</Text>
+		</Row>
+		<!--AGENDA TRAIT-->
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_NAME" Language="ja_JP">
+			<Text>永遠の青い炎</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_DESCRIPTION" Language="ja_JP">
+			<Text>プレースホルダーテキスト</Text>
+		</Row>
+		<!--PLAYER FRIEND DENOUNCED-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED" Language="ja_JP">
+			<Text>"賢明ではない…"（彼女の燃えるような視線が強まり、彼女の同盟国への敵意に対する警告です。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED_DESCRIPTION" Language="ja_JP">
+			<Text>あなたはブラック★ロックシューターの友人を非難しました。</Text>
+		</Row>
+		<!--HIGH STANDING ARMY-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY" Language="ja_JP">
+			<Text>"..."（ブラック★ロックシューターからの敬意の頷きは、あなたの強力な軍隊を認め、価値ある潜在的な同盟者または敵として認識しています。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY_DESCRIPTION" Language="ja_JP">
+			<Text>あなたの強力な軍事力はブラック★ロックシューターの尊敬を得ています。</Text>
+		</Row>
+		<!--WITH YOUR SHIELD OR ON IT-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT" Language="ja_JP">
+			<Text>"..."（ブラック★ロックシューターの視線が硬くなり、敵に対して決意を持たないあなたへの失望を明確に表しています。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT_DESCRIPTION" Language="ja_JP">
+			<Text>戦うことを選ばず屈するあなたの決断は、ブラック★ロックシューターに見逃されていません。</Text>
+		</Row>
+		<!--NOT WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER" Language="ja_JP">
+			<Text>"..."（彼女の遠い視線は、あなたに対して彼女が安心していることを示しています。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER_DESCRIPTION" Language="ja_JP">
+			<Text>ブラック★ロックシューターは、あなたの平和的な国際関係の姿勢を評価しています。</Text>
+		</Row>
+		<!--WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER" Language="ja_JP">
+			<Text>...（彼女はあなたを見て少し不安そうです。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER_DESCRIPTION" Language="ja_JP">
+			<Text>ブラック★ロックシューターは、あなたを敵と見るか、強力な同盟者と見るか迷っています。</Text>
+		</Row>
+		<!--REMEMBERS WAR-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR" Language="ja_JP">
+			<Text>許せない…（彼女はおそらくあなたを憎んでいます。）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR_DESCRIPTION" Language="ja_JP">
+			<Text>ブラックロックシューターはあなたの過ちを記憶し、永遠に潜在的な脅威と見なしています。</Text>
+		</Row>
+		<!--REMEMBERS FRIEND-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND" Language="ja_JP">
+			<Text>（ブラックロックシューターはあなたの友情を記憶しています）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND_DESCRIPTION" Language="ja_JP">
+			<Text>ブラックロックシューターはあなたの友情を記憶しています。</Text>
+		</Row>
+		<!--_TRAITS_-->
+		<!--LEADER TRAIT-->
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_NAME" Language="ja_JP">
+			<Text>バーニングアイ</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_DESCRIPTION" Language="ja_JP">
+			<Text>ブラック★ロックシューターのバーニングアイ能力は、戦争に参加するターンに発動し、全ての[ICON_Unit]ユニットに+10 [ICON_Strength]戦闘力と+1 [ICON_Movement]移動力を提供し、1 [ICON_Turn]ターン続きます。敵[ICON_Unit]ユニットを倒すごとに、バーニングアイ能力は+1 [ICON_Turn]ターン増加します。</Text>
+		</Row>
+		<!--NOTIFICATION-->
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_TITLE" Language="ja_JP">
+			<Text>バーニングアイ能力発動</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_MESSAGE" Language="ja_JP">
+			<Text>あなたのユニットは{1_Amount}[ICON_Strength]戦闘力と{2_Amount}[ICON_Movement]移動力のブーストを{3_Amount}[ICON_Turn]ターン受けます。</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_TITLE" Language="ja_JP">
+			<Text>二つの世界の受動能力</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_MESSAGE" Language="ja_JP">
+			<Text>あなたの軍事[ICON_Unit]ユニットは、敵領土内で+{1_Amount}[ICON_Strength]戦闘力ボーナスをこのターン受けています。</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_NAME" Language="ja_JP">
+			<Text>二つの世界</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_DESCRIPTION" Language="ja_JP">
+			<Text>敵地にいる軍事[ICON_Unit]ユニットは、ブラック・ロック・シューターの領土内の軍事[ICON_Unit]ユニットの数に等しい[ICON_Strength]戦闘ボーナスを得ます。異世界のネクサス[ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS]地区を持つ各都市は、+20%の[ICON_Science]科学、[ICON_Production]生産、[ICON_Gold]金を獲得し、その地区を持たない各都市は+20%の[ICON_Culture]文化、[ICON_Food]食糧、[ICON_Faith]信仰を獲得します。</Text>
+		</Row>
+		<!--DISTRICTS-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_NAME" Language="ja_JP">
+			<Text>異世界のネクサス</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_DESCRIPTION" Language="ja_JP">
+			<Text>ブラック・ロック・シューターの新しいユニークな地区で、ブラック・ロック歩兵ユニットと二つの世界文明特性の異世界ボーナス[ICON_Science][ICON_Production][ICON_Gold]収益の前提条件です。様々な隣接ボーナスを提供します。ブラック・ロック・シューターが戦争に参加し、地区の建設が完了すると、異世界[ICON_Barbarian]から野蛮人が出現します。野蛮人ユニットは、プレイヤーが以前に訓練した最強[ICON_Unit]ユニットクラスのテーブルからランダムに生成されます。</Text>
+		</Row>
+		<!--ADJACENCIES-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサス地区から+3[ICON_Science]科学の隣接ボーナス。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_CULTURE_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサス地区から+3[ICON_Culture]文化の隣接ボーナス。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_NEGATIVE_GOLD_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサス地区から-2[ICON_Gold]金の隣接ボーナス。</Text>
+		</Row>
+		<!--AQUEDUCT-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_FOOD_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>水道地区から+2[ICON_Food]食料の隣接ボーナス。</Text>
+		</Row>
+		<!--CAMPUS-->
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>キャンパス地区から+2[ICON_Science]科学の隣接ボーナス。</Text>
+		</Row>
+		<!--HOLY SITE-->
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>聖地地区から+2[ICON_Faith]信仰の隣接ボーナス。</Text>
+		</Row>
+		<!--COMMERCIAL HUB-->
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_GOLD_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>商業ハブ地区から+2[ICON_Gold]金の隣接ボーナス。</Text>
+		</Row>
+		<!--INDUSTRIAL ZONE-->
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_PRODUCTION_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>工業地区から+2[ICON_Production]生産の隣接ボーナス。</Text>
+		</Row>
+		<!--THEATER-->
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>劇場地区から+2[ICON_Culture]文化の隣接ボーナス。</Text>
+		</Row>
+		<!--HARBOR-->
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>港地区から+1[ICON_Gold]金の隣接ボーナス。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_FOOD_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>港地区から+1[ICON_Food]食料の隣接ボーナス。</Text>
+		</Row>
+		<!--Encampment-->
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_PRODUCTION_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>宿営地区から+1[ICON_Production]生産の隣接ボーナス。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_GOLD_ADJACENCY_DESCRIPTION" Language="ja_JP">
+			<Text>宿営地区から+1[ICON_Gold]金の隣接ボーナス。</Text>
+		</Row>
+		<!--UNITS-->
+		<!--BRI-->
+		<Row Tag="LOC_UNIT_SGA_BRS_BRI_NAME" Language="ja_JP">
+			<Text>ブラックロック歩兵</Text>
+		</Row>
+		<Row Tag="LOC_SGA_BRS_BRI_DESCRIPTION" Language="ja_JP">
+			<Text>機械化歩兵ユニットを置き換える独特なブラックロックユニットで、独自のブラックロック昇進ツリーを持っています。異界のネクサス[ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS]地区が必要です。</Text>
+		</Row>
+		<!--UNIT PROMOTIONS AND ABILITIES-->
+		<!--PROMOTIONS-->
+		<!--PROMOTION CLASSES-->
+		<Row Tag="PROMOTION_CLASS_SGA_BRS_BLACK_ROCK_INFANTRY_NAME" Language="ja_JP">
+			<Text>ブラックロック</Text>
+		</Row>
+		<!--UNIT PROMOTIONS-->
+		<!--HUNTER KILLER PROMOTIONS-->
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_NAME" Language="ja_JP">
+			<Text>本国防衛</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_DESCRIPTION" Language="ja_JP">
+			<Text>本国領土内で+3 [ICON_Strength]戦闘力。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_NAME" Language="ja_JP">
+			<Text>攻撃後の移動</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_DESCRIPTION" Language="ja_JP">
+			<Text>敵領土内で攻撃後に移動が可能で、十分な移動力が残っている場合。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_NAME" Language="ja_JP">
+			<Text>本国射程</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_DESCRIPTION" Language="ja_JP">
+			<Text>本国領土内で+1 [ICON_Range]射程。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_NAME" Language="ja_JP">
+			<Text>ターンごとの回復</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_DESCRIPTION" Language="ja_JP">
+			<Text>本国領土内でターンごとに25 HP回復。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_NAME" Language="ja_JP">
+			<Text>移動</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_DESCRIPTION" Language="ja_JP">
+			<Text>敵領土内で+1 [ICON_Movement]移動力。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_NAME" Language="ja_JP">
+			<Text>戦闘中の回復</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_DESCRIPTION" Language="ja_JP">
+			<Text>敵領土内で敵ユニットを倒した後に+50 HP回復。</Text>
+		</Row>
+		<!--MODIFIER STRINGS-->
+		<Row Tag="LOC_BRI_COMBAT_DESCRIPTION" Language="ja_JP">
+			<Text>ブラックロック戦闘昇進から+3。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_BURNING_EYE_COMBAT_DESCRIPTION" Language="ja_JP">
+			<Text>バーニングアイリーダー能力から+{3_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_TWO_WORLDS_COMBAT_DESCRIPTION" Language="ja_JP">
+			<Text>二つの世界文明能力から+{3_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_CULTURE_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサスがない場合の+{1_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FOOD_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサスがない場合の+{1_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FAITH_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサスがない場合の+{1_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_SCIENCE_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサスからの+{1_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_PRODUCTION_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサスからの+{1_Amount}。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_GOLD_DESCRIPTION" Language="ja_JP">
+			<Text>異界のネクサスからの+{1_Amount}。</Text>
+		</Row>
+		<!--_____RU_____-->
+		<!--CONFIG-->
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_NAME" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_ADJECTIVE" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION_SGA_CIVILIZATION" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_SGA_BRS_LOCATION" Language="ru_RU">
+			<Text>Иной Мир</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_POPULATION" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_SIZE" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_CAPITAL" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_1" Language="ru_RU">
+			<Text>Пустой Мир</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_2" Language="ru_RU">
+			<Text>Киото</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_3" Language="ru_RU">
+			<Text>Осака</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_4" Language="ru_RU">
+			<Text>Хиросима</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_5" Language="ru_RU">
+			<Text>Саппоро</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_6" Language="ru_RU">
+			<Text>Нагоя</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_7" Language="ru_RU">
+			<Text>Фукуока</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_8" Language="ru_RU">
+			<Text>Кобе</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_9" Language="ru_RU">
+			<Text>Йокогама</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_10" Language="ru_RU">
+			<Text>Сендай</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_11" Language="ru_RU">
+			<Text>Нара</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_12" Language="ru_RU">
+			<Text>Канадзава</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_13" Language="ru_RU">
+			<Text>Нагасаки</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_14" Language="ru_RU">
+			<Text>Окинава</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_15" Language="ru_RU">
+			<Text>Сайтама</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_16" Language="ru_RU">
+			<Text>Кумамото</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_17" Language="ru_RU">
+			<Text>Такаяма</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_18" Language="ru_RU">
+			<Text>Хакодате</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_19" Language="ru_RU">
+			<Text>Кагосима</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_20" Language="ru_RU">
+			<Text>Мацуяма</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_21" Language="ru_RU">
+			<Text>Поле Битвы Чёрного Рок-Стрелка</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_22" Language="ru_RU">
+			<Text>Земля Чариота</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_23" Language="ru_RU">
+			<Text>Логово Мёртвого Мастера</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_24" Language="ru_RU">
+			<Text>Токио</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_25" Language="ru_RU">
+			<Text>Иной Мир</Text>
+		</Row>
+		<!--CITIZENS-->
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MALE_1" Language="ru_RU">
+			<Text>Какой-то парень</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_MALE_1" Language="ru_RU">
+			<Text>Парень</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_FEMALE_1" Language="ru_RU">
+			<Text>Мато Курои</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_FEMALE_1" Language="ru_RU">
+			<Text>Стефани</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SGA_BRS_NAME" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SGA_BRS" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок, хранитель мира, окутанного тайной, твоя сила - маяк во тьме. Сможешь ли ты использовать силу неизвестного, чтобы привести свой народ к величию?</Text>
+		</Row>
+		<!--CIVILOPDEIA-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_TITLE" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_SUBTITLE" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_QUOTE" Language="ru_RU">
+			<Text>Я буду продолжать борьбу. Я должна принять эти раны, эту боль. Потому что моя борьба не закончится... пока не закончится мой мир.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Неизвестно</Text>
+		</Row>
+		<!--_DIPLOMACY_-->
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"..." (Молчаливый кивок Чёрного Рок-Стрелка признаёт ваше присутствие, её взгляд интенсивен, но отстранён.)</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Смотрите сами." (Её слова немногочисленны, но её жест в сторону её города - неоспоримое приглашение.)</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Я приду." (Её ответ краток, но в её тоне чувствуется нотка любопытства.)</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Обмен?" (Её единственное слово - ясное, хотя и тихое, предложение обменяться информацией о столицах.)</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Привет." (Простое приветствие, но её глаза, кажется, говорят гораздо больше.)</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Принято." (Её голос низок, но ясен, она принимает вашу делегацию кивком.)</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Не сейчас." (Её слова немногочисленны, её отказ вежлив, но твёрд.)</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Подарки..." (Чёрный Рок-Стрелок посылает молчаливого посланника с подарками.)</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Согласна." (Её ответ лаконичен, она предоставляет вам доступ к своим землям кивком.)</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Нет." (Одно слово, её отказ открыть свои границы ясен и непреклонен.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Границы...?" (Её единственное слово - ясный, хотя и скупой, запрос на открытые границы.)</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Дружба... принята." (Её голос мягок, почти шёпот, когда она принимает ваше предложение дружбы.)</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Не сейчас." (Её ответ краток, указывая на отказ от вашей дружбы без дальнейших объяснений.)</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Я доверяю вам. Присоединитесь ко мне?" (Её голос тих, но твёрд, она предлагает дружбу с редким намёком на теплоту.)</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Спасибо." (Простое, тихое признание вашего принятия её дружбы.)</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Хмм..." (Низкий, задумчивый гул, как будто она одновременно забавлена и заинтригована вашим отказом.)</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Давайте будем вместе...?" (Её голос низок, но ясен, она протягивает руку для союза.)</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Хорошо." (Краткий кивок и одно слово от Чёрного Рок-Стрелка передают её одобрение ваших действий.)</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Осторожно." (Её холодный взгляд и одно слово служат предупреждением, что вы идёте по опасному пути.)</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Объясните." (Её взгляд твердеет, когда она смотрит на ваши войска у её границы, требуя объяснения.)</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Согласна." (Лёгкий кивок и слово от Чёрного Рок-Стрелка указывают на её принятие торговой сделки.)</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Нет сделки." (Её слова немногочисленны, но её отказ принять торговую сделку ясен.)</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Так тому и быть." (Непоколебимый взгляд Чёрного Рок-Стрелка встречает ваше порицание спокойным, но твёрдым ответом.)</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Неразумно." (В редком проявлении эмоций глаза Чёрного Рок-Стрелка сужаются, её порицание кратко и ясно.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"О, хорошо..." (Глаза Чёрного Рок-Стрелка вспыхивают синим пламенем.)</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Нет пути назад." (С решительным взглядом Чёрный Рок-Стрелок готовит свою пушку, её слова зловещи, когда она объявляет войну.)</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Согласна." (В редкий момент уступки Чёрный Рок-Стрелок слегка кивает, соглашаясь на перемирие.)</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Ещё нет." (Чёрный Рок-Стрелок остаётся неподвижной, её слова указывают на то, что война ещё далеко не окончена.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"Перемирие?" (Чёрный Рок-Стрелок, с редким жестом дипломатии, протягивает руку, предлагая молчаливое перемирие.)</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>"..." (В поражении Чёрный Рок-Стрелок стоит непоколебимо, её молчание передаёт стоическое принятие своей судьбы.)</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY]</Text>
+		</Row>
+		<!--AI CUSTOM-->
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_BRS_NAME" Language="ru_RU">
+			<Text>Вечное Синее Пламя</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BRS_DESCRIPTION" Language="ru_RU">
+			<Text>Агенда Вечного Синего Пламени Чёрного Рок-Стрелка объединяет следующие черты: Осуждение Друга Игрока, Игнорирование Военственности, Мощная Армия, Со Щитом или На Щите, Ненависть к Ядерному Оружию, Не Военственность, Военственность, Помнит Войну и Помнит Друзей.</Text>
+		</Row>
+		<!--AGENDA TRAIT-->
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_NAME" Language="ru_RU">
+			<Text>Вечное Синее Пламя</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_DESCRIPTION" Language="ru_RU">
+			<Text>Текст-заполнитель</Text>
+		</Row>
+		<!--PLAYER FRIEND DENOUNCED-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED" Language="ru_RU">
+			<Text>"Неразумно..." (Её горящий взгляд усиливается, предупреждение против враждебности к её союзникам.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED_DESCRIPTION" Language="ru_RU">
+			<Text>Вы осудили друга Чёрного Рок-Стрелка.</Text>
+		</Row>
+		<!--HIGH STANDING ARMY-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY" Language="ru_RU">
+			<Text>"..." (Кивок уважения от Чёрного Рок-Стрелка признаёт вашу мощную армию, признавая вас достойным потенциальным союзником или противником.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY_DESCRIPTION" Language="ru_RU">
+			<Text>Ваше сильное военное присутствие заслужило уважение Чёрного Рок-Стрелка.</Text>
+		</Row>
+		<!--WITH YOUR SHIELD OR ON IT-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT" Language="ru_RU">
+			<Text>"..." (Взгляд Чёрного Рок-Стрелка твердеет, её молчание - ясное выражение разочарования в вашей неспособности противостоять противникам.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT_DESCRIPTION" Language="ru_RU">
+			<Text>Ваше решение уступить, а не сражаться, не осталось незамеченным Чёрным Рок-Стрелком.</Text>
+		</Row>
+		<!--NOT WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER" Language="ru_RU">
+			<Text>"..." (Её дальний взгляд на вас показывает, что она чувствует себя спокойно.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER_DESCRIPTION" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок ценит ваш миролюбивый подход в международных делах.</Text>
+		</Row>
+		<!--WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER" Language="ru_RU">
+			<Text>... (Она смотрит на вас с ноткой беспокойства.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER_DESCRIPTION" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок не знает, считать ли вас противником или сильным союзником.</Text>
+		</Row>
+		<!--REMEMBERS WAR-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR" Language="ru_RU">
+			<Text>Непростительно... (Скорее всего, она ненавидит вас.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR_DESCRIPTION" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок помнит ваши прегрешения и видит в вас потенциальную угрозу навсегда.</Text>
+		</Row>
+		<!--REMEMBERS FRIEND-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND" Language="ru_RU">
+			<Text>(Чёрный Рок-Стрелок помнит вашу дружбу)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND_DESCRIPTION" Language="ru_RU">
+			<Text>Чёрный Рок-Стрелок помнит вашу дружбу.</Text>
+		</Row>
+		<!--_TRAITS_-->
+		<!--LEADER TRAIT-->
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_NAME" Language="ru_RU">
+			<Text>Горящий Глаз</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_DESCRIPTION" Language="ru_RU">
+			<Text>Способность Чёрного Рок-Стрелка "Горящий Глаз" активируется в тот ход, когда она вступает в войну, что обеспечивает +10 [ICON_Strength] Боевой Силы и +1 [ICON_Movement] Движения всем [ICON_Unit] юнитам, и длится 1 [ICON_Turn] Ход. За каждого убитого вражеского [ICON_Unit] Юнита, способность "Горящий Глаз" увеличивается на +1 [ICON_Turn] Ход.</Text>
+		</Row>
+		<!--NOTIFICATION-->
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_TITLE" Language="ru_RU">
+			<Text>Активная способность Горящий Глаз</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_MESSAGE" Language="ru_RU">
+			<Text>Ваши юниты получают +{1_Amount} [ICON_Strength] Боевой Силы и +{2_Amount} [ICON_Movement] Движения на {3_Amount} [ICON_Turn] Ходов.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_TITLE" Language="ru_RU">
+			<Text>Пассивная способность Два Мира</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_MESSAGE" Language="ru_RU">
+			<Text>Ваши военные [ICON_Unit] юниты на территории врага получают бонус +{1_Amount} [ICON_Strength] Боевой Силы на этот ход.</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_NAME" Language="ru_RU">
+			<Text>Два Мира</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_DESCRIPTION" Language="ru_RU">
+			<Text>Военные [ICON_Unit] подразделения во вражеских территориях получают бонус [ICON_Strength] к боевой мощи, равный количеству военных [ICON_Unit] подразделений на территории Чёрного Рок-Стрелка. Каждый город с районом [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS] Другого Мира получает +20% [ICON_Science] науки, [ICON_Production] производства и [ICON_Gold] золота, а каждый город без такого района - +20% [ICON_Culture] культуры, [ICON_Food] еды и [ICON_Faith] веры.</Text>
+		</Row>
+		<!--DISTRICTS-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_NAME" Language="ru_RU">
+			<Text>Портал Другого Мира</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_DESCRIPTION" Language="ru_RU">
+			<Text>Новый уникальный район Чёрного Рок-Стрелка, который является предпосылкой для создания подразделения Чёрных Рок-Пехотинцев и получения бонусов [ICON_Science][ICON_Production][ICON_Gold] от особенности цивилизации Два Мира. Предоставляет различные бонусы смежности. Когда Чёрный Рок-Стрелок вступает в войну и завершает строительство района, из Другого Мира появляются [ICON_Barbarian] варвары. Варварские подразделения генерируются случайным образом из таблицы самых сильных [ICON_Unit] подразделений, ранее обученных игроком, по классу подразделений.</Text>
+		</Row>
+		<!--ADJACENCIES-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+3 [ICON_Science] Науки бонус смежности от района Иной Мир.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_CULTURE_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+3 [ICON_Culture] Культуры бонус смежности от района Иной Мир.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_NEGATIVE_GOLD_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>-2 [ICON_Gold] Золота бонус смежности от района Иной Мир.</Text>
+		</Row>
+		<!--AQUEDUCT-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_FOOD_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [ICON_Food] Еды бонус смежности от района Акведук.</Text>
+		</Row>
+		<!--CAMPUS-->
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [ICON_Science] Науки бонус смежности от района Кампус.</Text>
+		</Row>
+		<!--HOLY SITE-->
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [ICON_Faith] Веры бонус смежности от района Святой Площади.</Text>
+		</Row>
+		<!--COMMERCIAL HUB-->
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_GOLD_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [ICON_Gold] Золота бонус смежности от района Коммерческий Центр.</Text>
+		</Row>
+		<!--INDUSTRIAL ZONE-->
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_PRODUCTION_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [ICON_Production] Производства бонус смежности от района Промышленная Зона.</Text>
+		</Row>
+		<!--THEATER-->
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [ICON_Culture] Культуры бонус смежности от района Театр.</Text>
+		</Row>
+		<!--HARBOR-->
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+1 [ICON_Gold] Золота бонус смежности от района Гавань.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_FOOD_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+1 [ICON_Food] Еды бонус смежности от района Гавань.</Text>
+		</Row>
+		<!--Encampment-->
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_PRODUCTION_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+1 [ICON_Production] Производства бонус смежности от района Лагерь.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_GOLD_ADJACENCY_DESCRIPTION" Language="ru_RU">
+			<Text>+1 [ICON_Gold] Золота бонус смежности от района Лагерь.</Text>
+		</Row>
+		<!--UNITS-->
+		<!--BRI-->
+		<Row Tag="LOC_UNIT_SGA_BRS_BRI_NAME" Language="ru_RU">
+			<Text>Пехота Чёрного Рока</Text>
+		</Row>
+		<Row Tag="LOC_SGA_BRS_BRI_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный юнит Чёрного Рока, который заменяет юнит Механизированной Пехоты и имеет уникальное дерево продвижения Чёрного Рока. Требует район Иной Мир [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS].</Text>
+		</Row>
+		<!--UNIT PROMOTIONS AND ABILITIES-->
+		<!--PROMOTIONS-->
+		<!--PROMOTION CLASSES-->
+		<Row Tag="PROMOTION_CLASS_SGA_BRS_BLACK_ROCK_INFANTRY_NAME" Language="ru_RU">
+			<Text>Чёрный Рок</Text>
+		</Row>
+		<!--UNIT PROMOTIONS-->
+		<!--HUNTER KILLER PROMOTIONS-->
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_NAME" Language="ru_RU">
+			<Text>Оборона Родины</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_DESCRIPTION" Language="ru_RU">
+			<Text>+3 [ICON_Strength] Боевой Силы на родной территории.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_NAME" Language="ru_RU">
+			<Text>Атака и Движение</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_DESCRIPTION" Language="ru_RU">
+			<Text>Позволяет двигаться после атаки на территории врага, если осталось достаточно движения.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_NAME" Language="ru_RU">
+			<Text>Дальность на Родине</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_DESCRIPTION" Language="ru_RU">
+			<Text>+1 [ICON_Range] Дальности на родной территории.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_NAME" Language="ru_RU">
+			<Text>Лечение за ход</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_DESCRIPTION" Language="ru_RU">
+			<Text>Лечение 25 ОЗ за ход на родной территории.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_NAME" Language="ru_RU">
+			<Text>Движение</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_DESCRIPTION" Language="ru_RU">
+			<Text>+1 [ICON_Movement] Движения на территории врага.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_NAME" Language="ru_RU">
+			<Text>Лечение в бою</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_DESCRIPTION" Language="ru_RU">
+			<Text>+50 ОЗ после убийства вражеского юнита на территории врага.</Text>
+		</Row>
+		<!--MODIFIER STRINGS-->
+		<Row Tag="LOC_BRI_COMBAT_DESCRIPTION" Language="ru_RU">
+			<Text>+3 от продвижения Чёрный Рок Боевой.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_BURNING_EYE_COMBAT_DESCRIPTION" Language="ru_RU">
+			<Text>+{3_Amount} от способности лидера Горящий Глаз.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_TWO_WORLDS_COMBAT_DESCRIPTION" Language="ru_RU">
+			<Text>+{3_Amount} от способности цивилизации Два Мира.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_CULTURE_DESCRIPTION" Language="ru_RU">
+			<Text>+{1_Amount} от отсутствия района Иной Мир.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FOOD_DESCRIPTION" Language="ru_RU">
+			<Text>+{1_Amount} от отсутствия района Иной Мир.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FAITH_DESCRIPTION" Language="ru_RU">
+			<Text>+{1_Amount} от отсутствия района Иной Мир.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_SCIENCE_DESCRIPTION" Language="ru_RU">
+			<Text>+{1_Amount} от района Иной Мир.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_PRODUCTION_DESCRIPTION" Language="ru_RU">
+			<Text>+{1_Amount} от района Иной Мир.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_GOLD_DESCRIPTION" Language="ru_RU">
+			<Text>+{1_Amount} от района Иной Мир.</Text>
+		</Row>
+		<!--______KR_____-->
+		<!--_CONFIG_-->
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_NAME" Language="ko_KR">
+			<Text>블랙 록 슈터</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 슈터</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_ADJECTIVE" Language="ko_KR">
+			<Text>블랙 록 슈터</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION_SGA_CIVILIZATION" Language="ko_KR">
+			<Text>블랙 록 슈터</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_SGA_BRS_LOCATION" Language="ko_KR">
+			<Text>이세계</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_POPULATION" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_SIZE" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_CAPITAL" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_4" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_5" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_1" Language="ko_KR">
+			<Text>공허한 세계</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_2" Language="ko_KR">
+			<Text>교토</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_3" Language="ko_KR">
+			<Text>오사카</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_4" Language="ko_KR">
+			<Text>히로시마</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_5" Language="ko_KR">
+			<Text>삿포로</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_6" Language="ko_KR">
+			<Text>나고야</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_7" Language="ko_KR">
+			<Text>후쿠오카</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_8" Language="ko_KR">
+			<Text>고베</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_9" Language="ko_KR">
+			<Text>요코하마</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_10" Language="ko_KR">
+			<Text>센다이</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_11" Language="ko_KR">
+			<Text>나라</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_12" Language="ko_KR">
+			<Text>카나자와</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_13" Language="ko_KR">
+			<Text>나가사키</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_14" Language="ko_KR">
+			<Text>오키나와</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_15" Language="ko_KR">
+			<Text>사이타마</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_16" Language="ko_KR">
+			<Text>쿠마모토</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_17" Language="ko_KR">
+			<Text>타카야마</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_18" Language="ko_KR">
+			<Text>하코다테</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_19" Language="ko_KR">
+			<Text>가고시마</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_20" Language="ko_KR">
+			<Text>마츠야마</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_21" Language="ko_KR">
+			<Text>블랙 록 슈터의 전장</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_22" Language="ko_KR">
+			<Text>차리엇의 땅</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_23" Language="ko_KR">
+			<Text>데드 마스터의 소굴</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_24" Language="ko_KR">
+			<Text>도쿄</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_25" Language="ko_KR">
+			<Text>이세계</Text>
+		</Row>
+		<!--CITIZENS-->
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MALE_1" Language="ko_KR">
+			<Text>어떤 남자</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_MALE_1" Language="ko_KR">
+			<Text>어떤 녀석</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_FEMALE_1" Language="ko_KR">
+			<Text>마토 쿠로이</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_FEMALE_1" Language="ko_KR">
+			<Text>스텔라</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SGA_BRS_NAME" Language="ko_KR">
+			<Text>블랙 록 슈터</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SGA_BRS" Language="ko_KR">
+			<Text>블랙 록 슈터, 신비에 싸인 세계의 수호자여, 당신의 힘은 어둠 속의 등대입니다. 미지의 힘을 이용하여 당신의 사람들을 위대함으로 이끌 것인가요?</Text>
+		</Row>
+		<!--CIVILOPDEIA-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_TITLE" Language="ko_KR">
+			<Text>블랙 록 슈터</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_SUBTITLE" Language="ko_KR">
+			<Text>블랙 록 슈터</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_QUOTE" Language="ko_KR">
+			<Text>나는 계속 싸울 거야. 이 상처와 고통을 받아들여야 해. 왜냐하면 내 싸움은 내 세계가 끝날 때까지 끝나지 않을 테니까.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>미상</Text>
+		</Row>
+		<!--_DPILOMACY_-->
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"..." (블랙 록 슈터가 침묵 속에서 당신을 인정하는 고개를 끄덕이며, 그녀의 시선은 강렬하면서도 먼 곳을 바라보고 있습니다.)</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"직접 보세요." (그녀의 말은 적지만, 그녀의 도시로의 제스처는 명백한 초대입니다.)</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"가겠습니다." (그녀의 대답은 간결하지만, 그녀의 목소리에는 호기심의 빛이 스치고 있습니다.)</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"교환할까요?" (그녀의 한 마디는 명확하지만 조용한 수도 정보 교환의 제안입니다.)</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"안녕하세요." (간단한 인사이지만, 그녀의 눈은 더 많은 것을 전달하는 것 같습니다.)</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"수락합니다." (그녀의 목소리는 낮지만 분명하며, 고개를 끄덕이며 당신의 대표단을 받아들입니다.)</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"지금은 아닙니다." (그녀의 말은 적지만, 그녀의 거절은 예의 바르면서도 단호합니다.)</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"선물..." (블랙 록 슈터가 조용한 사절을 보내 선물을 전합니다.)</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"동의합니다." (그녀의 대답은 간결하며, 고개를 끄덕이며 당신에게 그녀의 땅에 대한 접근을 허락합니다.)</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"아니요." (한 마디로, 그녀는 그녀의 국경을 열지 않겠다는 거부를 명확하고 단호하게 표현합니다.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"국경을...?" (그녀의 한 마디는 간결하지만, 국경 개방에 대한 명확한 요청입니다.)</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"우정... 수락합니다." (그녀의 목소리는 부드럽고 거의 속삭임에 가깝습니다. 그녀가 당신의 우정 제안을 받아들입니다.)</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"지금은 아닙니다." (그녀의 대답은 간결하며, 당신의 우정 제안을 거부하지만 자세한 설명은 하지 않습니다.)</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"당신을 믿습니다. 함께하시겠어요?" (그녀의 목소리는 조용하지만 단호하며, 드문 온기를 담아 우정을 제안합니다.)</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"감사합니다." (그녀의 간단하고 조용한 말로 당신의 우정 수락을 인정합니다.)</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"음..." (그녀는 낮은, 사색적인 중얼거림으로, 플레이어의 거부에 흥미롭고도 흥미진진한 반응을 보입니다.)</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"함께 서겠어요...?" (그녀의 목소리는 낮지만 분명하며, 동맹을 위해 손을 내밉니다.)</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"좋아요." (블랙 록 슈터의 간결한 고개 끄덕임과 한 마디가 당신의 행동에 대한 그녀의 승인을 전달합니다.)</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"조심하세요." (그녀의 차가운 시선과 한 마디는 위험한 길을 걷고 있다는 경고로 작용합니다.)</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"설명하세요." (그녀의 시선이 굳어지며, 그녀의 국경에서 당신의 병력을 바라보며 설명을 요구합니다.)</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"동의합니다." (블랙 록 슈터의 약간의 고개 끄덕임과 한 마디가 무역 거래의 수락을 나타냅니다.)</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"거래 안 됩니다." (그녀의 말은 적지만, 무역 거래를 거부하는 것은 명확합니다.)</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"그렇게 하세요." (블랙 록 슈터의 굴하지 않는 시선이 당신의 비난에 침착하면서도 단호한 반응을 보입니다.)</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"현명하지 못합니다." (드문 감정의 표현으로, 블랙 록 슈터의 눈이 좁아지며, 그녀의 비난은 간결하고 명확합니다.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"좋군요..." (블랙 록 슈터의 눈이 푸른 불꽃으로 타오릅니다.)</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"돌이킬 수 없습니다." (결연한 눈빛으로, 블랙 록 슈터가 그녀의 대포를 준비하며, 전쟁을 선포하는 그녀의 말은 불길한 예감을 줍니다.)</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"동의합니다." (드문 양보의 순간에, 블랙 록 슈터는 약간의 고개 끄덕임으로 휴전에 동의합니다.)</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"아직 아닙니다." (블랙 록 슈터는 움직이지 않으며, 전쟁이 아직 끝나지 않았다는 그녀의 말이 나옵니다.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"휴전을 제안합니다." (외교의 드문 제스처로, 블랙 록 슈터는 손을 내밀며 침묵 속에서 휴전을 제안합니다.)</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY" Language="ko_KR">
+			<Text>"..." (패배 속에서도, 블랙 록 슈터는 굳건하게 서 있으며, 그녀의 침묵은 그녀의 운명을 스토익하게 받아들이는 것을 전달합니다.)</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY]</Text>
+		</Row>
+		<!--AI CUSTOM-->
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_BRS_NAME" Language="ko_KR">
+			<Text>영원한 푸른 불꽃</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BRS_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 슈터의 영원한 푸른 불꽃 의제는 다음과 같은 특성들의 결합입니다: 플레이어 친구 비난, 전쟁광 무시, 강력한 군대 유지, 방패와 함께 또는 그 위에서, 핵 혐오, 전쟁광 아님, 전쟁광, 전쟁 기억, 친구 기억.</Text>
+		</Row>
+		<!--AGENDA TRAIT-->
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_NAME" Language="ko_KR">
+			<Text>영원한 푸른 불꽃</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_DESCRIPTION" Language="ko_KR">
+			<Text>플레이스홀더 텍스트</Text>
+		</Row>
+		<!--PLAYER FRIEND DENOUNCED-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED" Language="ko_KR">
+			<Text>"현명하지 못합니다..." (그녀의 타오르는 시선이 강해지며, 그녀의 동맹에 대한 적대 행위에 대한 경고입니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED_DESCRIPTION" Language="ko_KR">
+			<Text>당신은 블랙 록 슈터의 친구를 비난했습니다.</Text>
+		</Row>
+		<!--HIGH STANDING ARMY-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY" Language="ko_KR">
+			<Text>"..." (블랙 록 슈터의 존중의 고개 끄덕임은 당신의 강력한 군대를 인정하며, 가치 있는 잠재적 동맹 또는 적으로 인식합니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY_DESCRIPTION" Language="ko_KR">
+			<Text>당신의 강력한 군사력은 블랙 록 슈터의 존경을 받았습니다.</Text>
+		</Row>
+		<!--WITH YOUR SHIELD OR ON IT-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT" Language="ko_KR">
+			<Text>"..." (블랙 록 슈터의 시선이 굳어지며, 적대자들 앞에서의 당신의 결단력 부족에 대한 명확한 실망의 표현입니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT_DESCRIPTION" Language="ko_KR">
+			<Text>싸우기보다 양보하는 당신의 결정은 블랙 록 슈터에게 눈에 띄지 않았습니다.</Text>
+		</Row>
+		<!--NOT WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER" Language="ko_KR">
+			<Text>"..." (그녀의 먼 시선이 당신을 향해 편안함을 보여줍니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 슈터는 당신의 평화로운 글로벌 정세에 대한 태도를 가치 있게 여깁니다.</Text>
+		</Row>
+		<!--WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER" Language="ko_KR">
+			<Text>... (그녀는 당신을 향해 불안한 눈빛으로 바라봅니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 슈터는 당신을 적대자로 볼지, 강력한 동맹으로 볼지 확신할 수 없습니다.</Text>
+		</Row>
+		<!--REMEMBERS WAR-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR" Language="ko_KR">
+			<Text>용서할 수 없습니다... (그녀는 아마도 당신을 미워할 것입니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 슈터는 당신의 과오를 기억하고 영원히 잠재적 위협으로 여깁니다.</Text>
+		</Row>
+		<!--REMEMBERS FRIEND-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND" Language="ko_KR">
+			<Text>(블랙 록 슈터는 당신의 우정을 기억합니다)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 슈터는 당신의 우정을 기억합니다.</Text>
+		</Row>
+		<!--_TRAITS_-->
+		<!--LEADER TRAIT-->
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_NAME" Language="ko_KR">
+			<Text>버닝 아이</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 슈터의 버닝 아이 능력은 전쟁에 참여하는 턴에 활성화되며, 모든 [ICON_Unit] 유닛에 +10 [ICON_Strength] 전투력과 +1 [ICON_Movement] 이동력을 제공하며, 1 [ICON_Turn] 턴 동안 지속됩니다. 적 [ICON_Unit] 유닛을 죽일 때마다 버닝 아이 능력은 +1 [ICON_Turn] 턴씩 증가합니다.</Text>
+		</Row>
+		<!--NOTIFICATION-->
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_TITLE" Language="ko_KR">
+			<Text>버닝 아이 활성 능력</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_MESSAGE" Language="ko_KR">
+			<Text>당신의 유닛은 {3_Amount} [ICON_Turn] 턴 동안 +{1_Amount} [ICON_Strength] 전투력과 +{2_Amount} [ICON_Movement] 이동력 증가를 얻습니다.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_TITLE" Language="ko_KR">
+			<Text>두 세계의 수동 능력</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_MESSAGE" Language="ko_KR">
+			<Text>당신의 군사 [ICON_Unit] 유닛은 이번 턴에 적 영토 내에서 +{1_Amount} [ICON_Strength] 전투력 보너스를 받고 있습니다.</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_NAME" Language="ko_KR">
+			<Text>두 세계</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_DESCRIPTION" Language="ko_KR">
+			<Text>적 영토 내의 군사 [ICON_Unit] 부대는 블랙 록 슈터의 영토 내 군사 [ICON_Unit] 부대 수에 해당하는 [ICON_Strength] 전투 보너스를 받습니다. 이세계 넥서스 [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS] 지구가 있는 각 도시는 +20% [ICON_Science] 과학, [ICON_Production] 생산, [ICON_Gold] 금을, 그리고 이세계 넥서스 지구가 없는 각 도시는 +20% [ICON_Culture] 문화, [ICON_Food] 식량, [ICON_Faith] 신앙을 얻습니다.</Text>
+		</Row>
+		<!--DISTRICTS-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_NAME" Language="ko_KR">
+			<Text>이세계 넥서스</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 슈터의 새롭고 독특한 지구로, 블랙 록 보병 유닛과 이세계 보너스 [ICON_Science][ICON_Production][ICON_Gold] 수익을 위한 전제 조건입니다. 다양한 인접 보너스를 제공합니다. 블랙 록 슈터가 전쟁에 참여하고 지구 건설이 완료되면 이세계에서 [ICON_Barbarian] 야만인들이 출현합니다. 야만인 유닛은 플레이어가 이전에 훈련한 가장 강력한 [ICON_Unit] 유닛의 테이블에서 유닛 클래스별로 무작위로 생성됩니다.</Text>
+		</Row>
+		<!--ADJACENCIES-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스 지구에서 +3 [ICON_Science] 과학 인접 보너스.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_CULTURE_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스 지구에서 +3 [ICON_Culture] 문화 인접 보너스.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_NEGATIVE_GOLD_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스 지구에서 -2 [ICON_Gold] 금 인접 보너스.</Text>
+		</Row>
+		<!--AQUEDUCT-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_FOOD_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>수로 지구에서 +2 [ICON_Food] 식량 인접 보너스.</Text>
+		</Row>
+		<!--CAMPUS-->
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>캠퍼스 지구에서 +2 [ICON_Science] 과학 인접 보너스.</Text>
+		</Row>
+		<!--HOLY SITE-->
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>성지 지구에서 +2 [ICON_Faith] 신앙 인접 보너스.</Text>
+		</Row>
+		<!--COMMERCIAL HUB-->
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_GOLD_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>상업 중심지 지구에서 +2 [ICON_Gold] 금 인접 보너스.</Text>
+		</Row>
+		<!--INDUSTRIAL ZONE-->
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_PRODUCTION_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>산업 지구에서 +2 [ICON_Production] 생산 인접 보너스.</Text>
+		</Row>
+		<!--THEATER-->
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>극장 지구에서 +2 [ICON_Culture] 문화 인접 보너스.</Text>
+		</Row>
+		<!--HARBOR-->
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>항구 지구에서 +1 [ICON_Gold] 금 인접 보너스.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_FOOD_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>항구 지구에서 +1 [ICON_Food] 식량 인접 보너스.</Text>
+		</Row>
+		<!--Encampment-->
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_PRODUCTION_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>주둔지 지구에서 +1 [ICON_Production] 생산 인접 보너스.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_GOLD_ADJACENCY_DESCRIPTION" Language="ko_KR">
+			<Text>주둔지 지구에서 +1 [ICON_Gold] 금 인접 보너스.</Text>
+		</Row>
+		<!--UNITS-->
+		<!--BRI-->
+		<Row Tag="LOC_UNIT_SGA_BRS_BRI_NAME" Language="ko_KR">
+			<Text>블랙 록 보병</Text>
+		</Row>
+		<Row Tag="LOC_SGA_BRS_BRI_DESCRIPTION" Language="ko_KR">
+			<Text>기계화 보병 유닛을 대체하는 독특한 블랙 록 유닛으로, 독특한 블랙 록 승급 트리를 가지고 있습니다. [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS] 다른 세계 넥서스 지구가 필요합니다.</Text>
+		</Row>
+		<!--UNIT PROMOTIONS AND ABILITIES-->
+		<!--PROMOTIONS-->
+		<!--PROMOTION CLASSES-->
+		<Row Tag="PROMOTION_CLASS_SGA_BRS_BLACK_ROCK_INFANTRY_NAME" Language="ko_KR">
+			<Text>블랙 록</Text>
+		</Row>
+		<!--UNIT PROMOTIONS-->
+		<!--HUNTER KILLER PROMOTIONS-->
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_NAME" Language="ko_KR">
+			<Text>조국 방위</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_DESCRIPTION" Language="ko_KR">
+			<Text>본국 영토에서 +3 [ICON_Strength] 전투력 증가.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_NAME" Language="ko_KR">
+			<Text>공격 후 이동</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_DESCRIPTION" Language="ko_KR">
+			<Text>적 영토에서 공격 후 남은 이동력이 있으면 이동 가능.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_NAME" Language="ko_KR">
+			<Text>조국 사거리</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_DESCRIPTION" Language="ko_KR">
+			<Text>본국 영토에서 +1 [ICON_Range] 사거리 증가.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_NAME" Language="ko_KR">
+			<Text>턴당 치유</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_DESCRIPTION" Language="ko_KR">
+			<Text>본국 영토에서 턴당 25 HP 치유.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_NAME" Language="ko_KR">
+			<Text>이동력</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_DESCRIPTION" Language="ko_KR">
+			<Text>적 영토에서 +1 [ICON_Movement] 이동력 증가.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_NAME" Language="ko_KR">
+			<Text>전투 중 치유</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_DESCRIPTION" Language="ko_KR">
+			<Text>적 영토에서 적 유닛을 죽인 후 +50 HP 치유.</Text>
+		</Row>
+		<!--MODIFIER STRINGS-->
+		<Row Tag="LOC_BRI_COMBAT_DESCRIPTION" Language="ko_KR">
+			<Text>블랙 록 전투 승급에서 +3 증가.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_BURNING_EYE_COMBAT_DESCRIPTION" Language="ko_KR">
+			<Text>버닝 아이 리더 능력에서 +{3_Amount} 증가.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_TWO_WORLDS_COMBAT_DESCRIPTION" Language="ko_KR">
+			<Text>두 세계 문명 능력에서 +{3_Amount} 증가.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_CULTURE_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스가 없을 때 +{1_Amount} 증가.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FOOD_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스가 없을 때 +{1_Amount} 증가.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FAITH_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스가 없을 때 +{1_Amount} 증가.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_SCIENCE_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스에서 +{1_Amount} 증가.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_PRODUCTION_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스에서 +{1_Amount} 증가.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_GOLD_DESCRIPTION" Language="ko_KR">
+			<Text>다른 세계 넥서스에서 +{1_Amount} 증가.</Text>
+		</Row>
+		<!--_____ES_____-->
+		<!--_CONFIG_-->
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_NAME" Language="es_ES">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION" Language="es_ES">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_ADJECTIVE" Language="es_ES">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION_SGA_CIVILIZATION" Language="es_ES">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_SGA_BRS_LOCATION" Language="es_ES">
+			<Text>Otro Mundo</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_POPULATION" Language="es_ES">
+			<Text>Desconocida</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_SIZE" Language="es_ES">
+			<Text>Desconocido</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_CAPITAL" Language="es_ES">
+			<Text>Desconocida</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Desconocido</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Desconocido</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>Desconocido</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_4" Language="es_ES">
+			<Text>Desconocido</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_5" Language="es_ES">
+			<Text>Desconocido</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_1" Language="es_ES">
+			<Text>Mundo Hueco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_2" Language="es_ES">
+			<Text>Kioto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_3" Language="es_ES">
+			<Text>Osaka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_4" Language="es_ES">
+			<Text>Hiroshima</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_5" Language="es_ES">
+			<Text>Sapporo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_6" Language="es_ES">
+			<Text>Nagoya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_7" Language="es_ES">
+			<Text>Fukuoka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_8" Language="es_ES">
+			<Text>Kobe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_9" Language="es_ES">
+			<Text>Yokohama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_10" Language="es_ES">
+			<Text>Sendai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_11" Language="es_ES">
+			<Text>Nara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_12" Language="es_ES">
+			<Text>Kanazawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_13" Language="es_ES">
+			<Text>Nagasaki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_14" Language="es_ES">
+			<Text>Okinawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_15" Language="es_ES">
+			<Text>Saitama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_16" Language="es_ES">
+			<Text>Kumamoto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_17" Language="es_ES">
+			<Text>Takayama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_18" Language="es_ES">
+			<Text>Hakodate</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_19" Language="es_ES">
+			<Text>Kagoshima</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_20" Language="es_ES">
+			<Text>Matsuyama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_21" Language="es_ES">
+			<Text>El Campo de Batalla de Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_22" Language="es_ES">
+			<Text>La Tierra de Chariot</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_23" Language="es_ES">
+			<Text>La Guarida de Dead Master</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_24" Language="es_ES">
+			<Text>Tokio</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_25" Language="es_ES">
+			<Text>Otro Mundo</Text>
+		</Row>
+		<!--CITIZENS-->
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MALE_1" Language="es_ES">
+			<Text>Algún tipo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_MALE_1" Language="es_ES">
+			<Text>Un chico</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_FEMALE_1" Language="es_ES">
+			<Text>Mato Kuroi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_FEMALE_1" Language="es_ES">
+			<Text>Stella</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SGA_BRS_NAME" Language="es_ES">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SGA_BRS" Language="es_ES">
+			<Text>Black Rock Shooter, guardián de un mundo envuelto en misterio, tu fuerza es un faro en la oscuridad. ¿Aprovecharás el poder de lo desconocido para llevar a tu pueblo a la grandeza?</Text>
+		</Row>
+		<!--CIVILOPDEIA-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_TITLE" Language="es_ES">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_SUBTITLE" Language="es_ES">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_QUOTE" Language="es_ES">
+			<Text>Voy a seguir luchando. Tengo que abrazar estas heridas, este dolor. Porque mi lucha no terminará... hasta que mi mundo lo haga.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Desconocido</Text>
+		</Row>
+		<!--_DIPLOMACY_-->
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"..." (Un asentimiento silencioso de Black Rock Shooter reconoce tu presencia, su mirada intensa pero distante.)</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Mira por ti mismo." (Sus palabras son pocas, pero su gesto hacia su ciudad es una invitación inconfundible.)</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Vendré." (Su respuesta es concisa, pero hay un atisbo de curiosidad en su tono.)</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"¿Intercambio?" (Su única palabra es una oferta clara, aunque tranquila, para intercambiar información de la capital.)</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Hola." (Un saludo simple, pero sus ojos parecen comunicar mucho más.)</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Aceptada." (Su voz es baja pero clara, aceptando tu delegación con un asentimiento.)</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Ahora no." (Sus palabras son pocas, su rechazo educado pero firme.)</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Regalos..." (Black Rock Shooter envía un emisario silencioso con regalos.)</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"De acuerdo." (Su respuesta es sucinta, otorgándote acceso a sus tierras con un asentimiento.)</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"No." (Una sola palabra, su negativa a abrir sus fronteras es clara e inflexible.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"¿Fronteras...?" (Su única palabra es una petición clara, aunque escueta, de fronteras abiertas.)</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Amistad... aceptada." (Su voz es suave, casi un susurro, al aceptar tu oferta de amistad.)</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Ahora no." (Su respuesta es breve, indicando un rechazo de tu amistad sin más explicación.)</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Confío en ti. ¿Te unes a mí?" (Su voz es tranquila pero firme, extendiendo una oferta de amistad con un raro atisbo de calidez.)</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Gracias." (Un simple y tranquilo reconocimiento de tu aceptación de su amistad.)</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Hmm..." (Un bajo y contemplativo murmullo, como si estuviera tanto divertida como intrigada por el rechazo del jugador.)</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"¿Nos unimos...?" (Su voz es baja pero clara, mientras extiende una mano para una alianza.)</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Bien." (Un breve asentimiento y una sola palabra de Black Rock Shooter transmiten su aprobación de tus acciones.)</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Cuidado." (Su fría mirada y una sola palabra sirven como advertencia de que estás transitando un camino peligroso.)</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Explica." (Su mirada se endurece al mirar tus tropas en su frontera, exigiendo una explicación.)</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"De acuerdo." (Un ligero asentimiento y una palabra de Black Rock Shooter indican su aceptación del trato comercial.)</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"No hay trato." (Sus palabras son pocas, pero su negativa a aceptar el trato comercial es clara.)</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Que así sea." (La mirada inquebrantable de Black Rock Shooter se encuentra con tu denuncia con una respuesta tranquila pero firme.)</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Imprudente." (En una rara muestra de emoción, los ojos de Black Rock Shooter se estrechan, su denuncia concisa y clara.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Oh, bien..." (Los ojos de Black Rock Shooter se encienden con la llama azul.)</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"No hay vuelta atrás." (Con una mirada decidida, Black Rock Shooter prepara su cañón, sus palabras presagian la guerra.)</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"De acuerdo." (En un raro momento de concesión, Black Rock Shooter asiente ligeramente, aceptando una tregua.)</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"Todavía no." (Black Rock Shooter permanece inmóvil, sus palabras indican que la guerra está lejos de terminar.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"¿Tregua?" (Black Rock Shooter, con un raro gesto de diplomacia, extiende una mano, ofreciendo una tregua silenciosa.)</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>"..." (En la derrota, Black Rock Shooter se mantiene resuelta, su silencio transmite una aceptación estoica de su destino.)</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="es_ES">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY]</Text>
+		</Row>
+		<!--AI CUSTOM-->
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_BRS_NAME" Language="es_ES">
+			<Text>Llama Azul Eterna</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BRS_DESCRIPTION" Language="es_ES">
+			<Text>La agenda Llama Azul Eterna de Black Rock Shooter es una conglomeración de los siguientes rasgos: Amigo del Jugador Denunciado, Ignorar Belicismo, Ejército de Alto Rango, Con Escudo o Sobre Él, Odio Nuclear, No Belicista, Es Belicista, Recordar la Guerra y Recordar Amigos.</Text>
+		</Row>
+		<!--AGENDA TRAIT-->
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_NAME" Language="es_ES">
+			<Text>Llama Azul Eterna</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_DESCRIPTION" Language="es_ES">
+			<Text>Texto de relleno</Text>
+		</Row>
+		<!--PLAYER FRIEND DENOUNCED-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED" Language="es_ES">
+			<Text>"Imprudente..." (Su mirada ardiente se intensifica, una advertencia contra la hostilidad hacia sus aliados.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED_DESCRIPTION" Language="es_ES">
+			<Text>Has denunciado a un amigo de Black Rock Shooter.</Text>
+		</Row>
+		<!--HIGH STANDING ARMY-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY" Language="es_ES">
+			<Text>"..." (Un asentimiento de respeto de Black Rock Shooter reconoce tu formidable ejército, reconociendo un potencial aliado o adversario digno.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY_DESCRIPTION" Language="es_ES">
+			<Text>Tu fuerte presencia militar ha ganado el respeto de Black Rock Shooter.</Text>
+		</Row>
+		<!--WITH YOUR SHIELD OR ON IT-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT" Language="es_ES">
+			<Text>"..." (La mirada de Black Rock Shooter se endurece, su silencio es una clara expresión de decepción por tu falta de resolución frente a los adversarios.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT_DESCRIPTION" Language="es_ES">
+			<Text>Tu decisión de ceder en lugar de luchar no ha pasado desapercibida para Black Rock Shooter.</Text>
+		</Row>
+		<!--NOT WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER" Language="es_ES">
+			<Text>"..." (Su mirada distante hacia ti muestra que está tranquila.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER_DESCRIPTION" Language="es_ES">
+			<Text>Black Rock Shooter valora tu postura pacífica en los asuntos globales.</Text>
+		</Row>
+		<!--WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER" Language="es_ES">
+			<Text>... (Ella te mira con un atisbo de inquietud.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER_DESCRIPTION" Language="es_ES">
+			<Text>Black Rock Shooter no sabe si considerarte un adversario o un fuerte aliado.</Text>
+		</Row>
+		<!--REMEMBERS WAR-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR" Language="es_ES">
+			<Text>Imperdonable... (Lo más probable es que te odie.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR_DESCRIPTION" Language="es_ES">
+			<Text>Black Rock Shooter recuerda tus transgresiones y te ve como una amenaza potencial para siempre.</Text>
+		</Row>
+		<!--REMEMBERS FRIEND-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND" Language="es_ES">
+			<Text>(Black Rock Shooter recuerda tu amistad)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND_DESCRIPTION" Language="es_ES">
+			<Text>Black Rock Shooter recuerda tu amistad.</Text>
+		</Row>
+		<!--_TRAITS_-->
+		<!--LEADER TRAIT-->
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_NAME" Language="es_ES">
+			<Text>Ojo Ardiente</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_DESCRIPTION" Language="es_ES">
+			<Text>La habilidad Ojo Ardiente de Black Rock Shooter se activa en el turno en que entra en guerra, lo que proporciona +10 [ICON_Strength] Fuerza de Combate y +1 [ICON_Movement] Movimiento a todas las unidades [ICON_Unit], y dura 1 [ICON_Turn] Turno. Por cada unidad enemiga [ICON_Unit] eliminada, la habilidad Ojo Ardiente se incrementa en +1 [ICON_Turn] Turno.</Text>
+		</Row>
+		<!--NOTIFICATION-->
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_TITLE" Language="es_ES">
+			<Text>Habilidad activa Ojo Ardiente</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_MESSAGE" Language="es_ES">
+			<Text>Tus unidades ganan +{1_Amount} [ICON_Strength] Fuerza de Combate y +{2_Amount} [ICON_Movement] Movimiento adicionales durante {3_Amount} [ICON_Turn] Turnos.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_TITLE" Language="es_ES">
+			<Text>Habilidad pasiva Dos Mundos</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_MESSAGE" Language="es_ES">
+			<Text>Tus unidades militares [ICON_Unit] en territorio enemigo están recibiendo un bono de +{1_Amount} [ICON_Strength] Fuerza de Combate este turno.</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_NAME" Language="es_ES">
+			<Text>Dos Mundos</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades militares [ICON_Unit] en territorios enemigos obtienen un bono de combate [ICON_Strength] igual al número de unidades militares [ICON_Unit] en el territorio de Black Rock Shooter. Obtén +20% de [ICON_Science] Ciencia, [ICON_Production] Producción y [ICON_Gold] Oro en cada ciudad con un distrito Nexus Otromundial [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS], y +20% de [ICON_Culture] Cultura, [ICON_Food] Alimentos, [ICON_Faith] Fe en cada ciudad sin él.</Text>
+		</Row>
+		<!--DISTRICTS-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_NAME" Language="es_ES">
+			<Text>Nexus Otromundial</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_DESCRIPTION" Language="es_ES">
+			<Text>Un nuevo y único distrito de Black Rock que es un requisito previo para la unidad de Infantería Black Rock y los rendimientos de bonificación otromundiales [ICON_Science][ICON_Production][ICON_Gold] para el rasgo de civilización Dos Mundos. Proporciona varios bonos de adyacencia. Los [ICON_Barbarian] bárbaros otromundiales aparecen del Otromundo cuando Black Rock Shooter participa en la guerra y al completar la construcción del distrito. Las unidades bárbaras aparecen aleatoriamente por clase de unidad de una tabla de las unidades [ICON_Unit] más fuertes entrenadas previamente por el jugador.</Text>
+		</Row>
+		<!--ADJACENCIES-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+3 [ICON_Science] Bonificación de adyacencia de Ciencia del distrito Nexo Otromundano.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_CULTURE_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+3 [ICON_Culture] Bonificación de adyacencia de Cultura del distrito Nexo Otromundano.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_NEGATIVE_GOLD_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>-2 [ICON_Gold] Bonificación de adyacencia de Oro negativa del distrito Nexo Otromundano.</Text>
+		</Row>
+		<!--AQUEDUCT-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_FOOD_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+2 [ICON_Food] Bonificación de adyacencia de Comida del distrito Acueducto.</Text>
+		</Row>
+		<!--CAMPUS-->
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+2 [ICON_Science] Bonificación de adyacencia de Ciencia del distrito Campus.</Text>
+		</Row>
+		<!--HOLY SITE-->
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+2 [ICON_Faith] Bonificación de adyacencia de Fe del distrito Sitio Sagrado.</Text>
+		</Row>
+		<!--COMMERCIAL HUB-->
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_GOLD_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+2 [ICON_Gold] Bonificación de adyacencia de Oro del distrito Centro Comercial.</Text>
+		</Row>
+		<!--INDUSTRIAL ZONE-->
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_PRODUCTION_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+2 [ICON_Production] Bonificación de adyacencia de Producción del distrito Zona Industrial.</Text>
+		</Row>
+		<!--THEATER-->
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+2 [ICON_Culture] Bonificación de adyacencia de Cultura del distrito Teatro.</Text>
+		</Row>
+		<!--HARBOR-->
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Gold] Bonificación de adyacencia de Oro del distrito Puerto.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_FOOD_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Food] Bonificación de adyacencia de Comida del distrito Puerto.</Text>
+		</Row>
+		<!--Encampment-->
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_PRODUCTION_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Production] Bonificación de adyacencia de Producción del distrito Campamento.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_GOLD_ADJACENCY_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Gold] Bonificación de adyacencia de Oro del distrito Campamento.</Text>
+		</Row>
+		<!--UNITS-->
+		<!--BRI-->
+		<Row Tag="LOC_UNIT_SGA_BRS_BRI_NAME" Language="es_ES">
+			<Text>Infantería Black Rock</Text>
+		</Row>
+		<Row Tag="LOC_SGA_BRS_BRI_DESCRIPTION" Language="es_ES">
+			<Text>Una unidad única de Black Rock que reemplaza a la unidad de Infantería Mecanizada y tiene un árbol de promociones único de Black Rock. Requiere el distrito Nexo Otromundano [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS].</Text>
+		</Row>
+		<!--UNIT PROMOTIONS AND ABILITIES-->
+		<!--PROMOTIONS-->
+		<!--PROMOTION CLASSES-->
+		<Row Tag="PROMOTION_CLASS_SGA_BRS_BLACK_ROCK_INFANTRY_NAME" Language="es_ES">
+			<Text>Black Rock</Text>
+		</Row>
+		<!--UNIT PROMOTIONS-->
+		<!--HUNTER KILLER PROMOTIONS-->
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_NAME" Language="es_ES">
+			<Text>Defensa del Territorio</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_DESCRIPTION" Language="es_ES">
+			<Text>+3 [ICON_Strength] Fuerza de Combate en territorio propio.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_NAME" Language="es_ES">
+			<Text>Atacar y Mover</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_DESCRIPTION" Language="es_ES">
+			<Text>Permite movimiento después de atacar en territorio enemigo, si queda suficiente movimiento.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_NAME" Language="es_ES">
+			<Text>Alcance en Territorio Propio</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Range] Alcance en territorio propio.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_NAME" Language="es_ES">
+			<Text>Curación por turno</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_DESCRIPTION" Language="es_ES">
+			<Text>Curación de 25 HP por turno en territorio propio.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_NAME" Language="es_ES">
+			<Text>Movimiento</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Movement] Movimiento en territorio enemigo.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_NAME" Language="es_ES">
+			<Text>Curación en combate</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_DESCRIPTION" Language="es_ES">
+			<Text>+50 HP después de matar una unidad enemiga en territorio enemigo.</Text>
+		</Row>
+		<!--MODIFIER STRINGS-->
+		<Row Tag="LOC_BRI_COMBAT_DESCRIPTION" Language="es_ES">
+			<Text>+3 de la promoción Black Rock Combat.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_BURNING_EYE_COMBAT_DESCRIPTION" Language="es_ES">
+			<Text>+{3_Amount} de la habilidad líder Ojo Ardiente.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_TWO_WORLDS_COMBAT_DESCRIPTION" Language="es_ES">
+			<Text>+{3_Amount} de la habilidad de civilización Dos Mundos.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_CULTURE_DESCRIPTION" Language="es_ES">
+			<Text>+{1_Amount} sin Nexo Otromundano.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FOOD_DESCRIPTION" Language="es_ES">
+			<Text>+{1_Amount} sin Nexo Otromundano.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FAITH_DESCRIPTION" Language="es_ES">
+			<Text>+{1_Amount} sin Nexo Otromundano.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_SCIENCE_DESCRIPTION" Language="es_ES">
+			<Text>+{1_Amount} con Nexo Otromundano.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_PRODUCTION_DESCRIPTION" Language="es_ES">
+			<Text>+{1_Amount} con Nexo Otromundano.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_GOLD_DESCRIPTION" Language="es_ES">
+			<Text>+{1_Amount} con Nexo Otromundano.</Text>
+		</Row>
+		<!--_____PGBR_____-->
+		<!--_CONFIG_-->
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_NAME" Language="pt_BR">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION" Language="pt_BR">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_ADJECTIVE" Language="pt_BR">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION_SGA_CIVILIZATION" Language="pt_BR">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_SGA_BRS_LOCATION" Language="pt_BR">
+			<Text>Outro Mundo</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_POPULATION" Language="pt_BR">
+			<Text>Desconhecida</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_SIZE" Language="pt_BR">
+			<Text>Desconhecido</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_CAPITAL" Language="pt_BR">
+			<Text>Desconhecida</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="pt_BR">
+			<Text>Desconhecido</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_2" Language="pt_BR">
+			<Text>Desconhecido</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_3" Language="pt_BR">
+			<Text>Desconhecido</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_4" Language="pt_BR">
+			<Text>Desconhecido</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_5" Language="pt_BR">
+			<Text>Desconhecido</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_1" Language="pt_BR">
+			<Text>Mundo Vazio</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_2" Language="pt_BR">
+			<Text>Quioto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_3" Language="pt_BR">
+			<Text>Osaka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_4" Language="pt_BR">
+			<Text>Hiroshima</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_5" Language="pt_BR">
+			<Text>Sapporo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_6" Language="pt_BR">
+			<Text>Nagoya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_7" Language="pt_BR">
+			<Text>Fukuoka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_8" Language="pt_BR">
+			<Text>Kobe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_9" Language="pt_BR">
+			<Text>Yokohama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_10" Language="pt_BR">
+			<Text>Sendai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_11" Language="pt_BR">
+			<Text>Nara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_12" Language="pt_BR">
+			<Text>Kanazawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_13" Language="pt_BR">
+			<Text>Nagasaki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_14" Language="pt_BR">
+			<Text>Okinawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_15" Language="pt_BR">
+			<Text>Saitama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_16" Language="pt_BR">
+			<Text>Kumamoto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_17" Language="pt_BR">
+			<Text>Takayama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_18" Language="pt_BR">
+			<Text>Hakodate</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_19" Language="pt_BR">
+			<Text>Kagoshima</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_20" Language="pt_BR">
+			<Text>Matsuyama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_21" Language="pt_BR">
+			<Text>Campo de Batalha da Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_22" Language="pt_BR">
+			<Text>Terra do Chariot</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_23" Language="pt_BR">
+			<Text>Covil da Dead Master</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_24" Language="pt_BR">
+			<Text>Tóquio</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_25" Language="pt_BR">
+			<Text>Outro Mundo</Text>
+		</Row>
+		<!--CITIZENS-->
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MALE_1" Language="pt_BR">
+			<Text>Algum cara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_MALE_1" Language="pt_BR">
+			<Text>Um cara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_FEMALE_1" Language="pt_BR">
+			<Text>Mato Kuroi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_FEMALE_1" Language="pt_BR">
+			<Text>Stella</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SGA_BRS_NAME" Language="pt_BR">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SGA_BRS" Language="pt_BR">
+			<Text>Black Rock Shooter, guardiã de um mundo envolto em mistério, sua força é um farol na escuridão. Você usará o poder do desconhecido para liderar seu povo à grandeza?</Text>
+		</Row>
+		<!--CIVILOPDEIA-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_TITLE" Language="pt_BR">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_SUBTITLE" Language="pt_BR">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_QUOTE" Language="pt_BR">
+			<Text>Vou continuar lutando. Preciso abraçar essas feridas, essa dor. Porque minha luta não terminará... até que meu mundo termine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="pt_BR">
+			<Text>Desconhecido</Text>
+		</Row>
+		<!--_DIPLOMACY_-->
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"..." (Um aceno silencioso da Black Rock Shooter reconhece sua presença, seu olhar intenso, porém distante.)</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Veja por si mesmo." (Suas palavras são poucas, mas seu gesto em direção à sua cidade é um convite inconfundível.)</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Eu irei." (Sua resposta é concisa, mas há um toque de curiosidade em seu tom.)</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Troca?" (Sua única palavra é uma oferta clara, embora silenciosa, para trocar informações sobre as capitais.)</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Olá." (Uma saudação simples, mas seus olhos parecem comunicar muito mais.)</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Aceito." (Sua voz é baixa, mas clara, aceitando sua delegação com um aceno.)</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Agora não." (Suas palavras são poucas, sua recusa educada, mas firme.)</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Presentes..." (Black Rock Shooter envia um enviado silencioso com presentes.)</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Concordo." (Sua resposta é sucinta, concedendo-lhe acesso às suas terras com um aceno.)</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Não." (Uma única palavra, sua recusa em abrir suas fronteiras é clara e intransigente.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Fronteiras...?" (Sua única palavra é um pedido claro, embora sucinto, por fronteiras abertas.)</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Amizade... aceita." (Sua voz é suave, quase um sussurro, enquanto ela aceita sua oferta de amizade.)</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Agora não." (Sua resposta é breve, indicando uma recusa de sua amizade sem mais explicações.)</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Confio em você. Junte-se a mim?" (Sua voz é calma, mas firme, estendendo uma oferta de amizade com um raro toque de calor.)</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Obrigada." (Um simples e tranquilo reconhecimento de sua aceitação de sua amizade.)</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Hmm..." (Um murmúrio baixo e contemplativo, como se ela estivesse tanto divertida quanto intrigada com a recusa do jogador.)</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Vamos nos unir...?" (Sua voz é baixa, mas clara, enquanto ela estende a mão para uma aliança.)</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Bom." (Um aceno breve e uma única palavra da Black Rock Shooter transmitem sua aprovação de suas ações.)</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Cuidado." (Seu olhar frio e uma única palavra servem como um aviso de que você está trilhando um caminho perigoso.)</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Explique." (Seu olhar endurece enquanto ela olha para suas tropas em sua fronteira, exigindo uma explicação.)</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Concordo." (Um leve aceno e uma palavra da Black Rock Shooter indicam sua aceitação do acordo comercial.)</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Sem acordo." (Suas palavras são poucas, mas sua recusa em aceitar o acordo comercial é clara.)</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Que assim seja." (O olhar inabalável da Black Rock Shooter encontra seu denunciamento com uma resposta calma, porém firme.)</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Imprudente." (Em uma rara demonstração de emoção, os olhos da Black Rock Shooter se estreitam, seu denunciamento conciso e claro.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Ah, que bom..." (Os olhos da Black Rock Shooter brilham com a chama azul.)</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Sem volta." (Com um olhar determinado, Black Rock Shooter prepara seu canhão, suas palavras prenunciando enquanto ela declara guerra.)</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Concordo." (Em um raro momento de concessão, Black Rock Shooter dá um leve aceno, concordando com uma trégua.)</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Ainda não." (Black Rock Shooter permanece imóvel, suas palavras indicando que a guerra está longe de acabar.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"Trégua?" (Black Rock Shooter, com um raro gesto de diplomacia, estende a mão, oferecendo uma trégua silenciosa.)</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>"..." (Na derrota, Black Rock Shooter permanece resoluta, seu silêncio transmitindo uma aceitação estoica de seu destino.)</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="pt_BR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY]</Text>
+		</Row>
+		<!--AI CUSTOM-->
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_BRS_NAME" Language="pt_BR">
+			<Text>Chama Azul Eterna</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BRS_DESCRIPTION" Language="pt_BR">
+			<Text>A agenda Chama Azul Eterna da Black Rock Shooter é uma conglomerado das seguintes características: Amigo do Jogador Denunciado, Ignorar Belicismo, Exército de Alto Nível, Com Escudo ou Sobre Ele, Ódio a Armas Nucleares, Não Belicista, Belicista, Lembrar da Guerra e Lembrar dos Amigos.</Text>
+		</Row>
+		<!--AGENDA TRAIT-->
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_NAME" Language="pt_BR">
+			<Text>Chama Azul Eterna</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_DESCRIPTION" Language="pt_BR">
+			<Text>Texto de preenchimento</Text>
+		</Row>
+		<!--PLAYER FRIEND DENOUNCED-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED" Language="pt_BR">
+			<Text>"Imprudente..." (Seu olhar ardente se intensifica, um aviso contra a hostilidade em relação aos seus aliados.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED_DESCRIPTION" Language="pt_BR">
+			<Text>Você denunciou um amigo da Black Rock Shooter.</Text>
+		</Row>
+		<!--HIGH STANDING ARMY-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY" Language="pt_BR">
+			<Text>"..." (Um aceno de respeito da Black Rock Shooter reconhece seu exército formidável, reconhecendo um potencial aliado ou adversário digno.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY_DESCRIPTION" Language="pt_BR">
+			<Text>Sua forte presença militar conquistou o respeito da Black Rock Shooter.</Text>
+		</Row>
+		<!--WITH YOUR SHIELD OR ON IT-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT" Language="pt_BR">
+			<Text>"..." (O olhar da Black Rock Shooter endurece, seu silêncio uma clara expressão de decepção com sua falta de resolução diante dos adversários.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT_DESCRIPTION" Language="pt_BR">
+			<Text>Sua decisão de ceder em vez de lutar não passou despercebida pela Black Rock Shooter.</Text>
+		</Row>
+		<!--NOT WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER" Language="pt_BR">
+			<Text>"..." (Seu olhar distante mostra que ela está à vontade com você.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER_DESCRIPTION" Language="pt_BR">
+			<Text>Black Rock Shooter valoriza sua postura pacífica nos assuntos globais.</Text>
+		</Row>
+		<!--WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER" Language="pt_BR">
+			<Text>... (Ela olha para você com um toque de inquietação.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER_DESCRIPTION" Language="pt_BR">
+			<Text>Black Rock Shooter não sabe se deve vê-lo como um adversário ou um forte aliado.</Text>
+		</Row>
+		<!--REMEMBERS WAR-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR" Language="pt_BR">
+			<Text>Imperdoável... (Ela provavelmente te odeia.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR_DESCRIPTION" Language="pt_BR">
+			<Text>Black Rock Shooter lembra de suas transgressões e te vê como uma ameaça potencial para sempre.</Text>
+		</Row>
+		<!--REMEMBERS FRIEND-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND" Language="pt_BR">
+			<Text>(Black Rock Shooter lembra de sua amizade)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND_DESCRIPTION" Language="pt_BR">
+			<Text>Black Rock Shooter lembra de sua amizade.</Text>
+		</Row>
+		<!--_TRAITS_-->
+		<!--LEADER TRAIT-->
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_NAME" Language="pt_BR">
+			<Text>Olho Ardente</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_DESCRIPTION" Language="pt_BR">
+			<Text>A habilidade Olho Ardente da Black Rock Shooter é ativada no turno em que ela entra em guerra, fornecendo +10 [ICON_Strength] Força de Combate e +1 [ICON_Movement] Movimento para todas as unidades [ICON_Unit], e dura 1 [ICON_Turn] Turno. Para cada unidade inimiga [ICON_Unit] morta, a habilidade Olho Ardente é incrementada em +1 [ICON_Turn] Turno.</Text>
+		</Row>
+		<!--NOTIFICATION-->
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_TITLE" Language="pt_BR">
+			<Text>Habilidade ativa Olho Ardente</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_MESSAGE" Language="pt_BR">
+			<Text>Suas unidades ganham +{1_Amount} [ICON_Strength] Força de Combate e +{2_Amount} [ICON_Movement] Movimento por {3_Amount} [ICON_Turn] Turnos.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_TITLE" Language="pt_BR">
+			<Text>Habilidade passiva Dois Mundos</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_MESSAGE" Language="pt_BR">
+			<Text>Suas unidades militares [ICON_Unit] em território inimigo estão recebendo um bônus de +{1_Amount} [ICON_Strength] Força de Combate neste turno.</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_NAME" Language="pt_BR">
+			<Text>Dois Mundos</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_DESCRIPTION" Language="pt_BR">
+			<Text>Unidades militares [ICON_Unit] em territórios inimigos ganham um bônus de combate [ICON_Strength] igual ao número de unidades militares [ICON_Unit] no território da Black Rock Shooter. Ganhe +20% de [ICON_Science] Ciência, [ICON_Production] Produção e [ICON_Gold] Ouro em cada cidade com um distrito Nexus Outromundial [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS], e +20% de [ICON_Culture] Cultura, [ICON_Food] Alimentos, [ICON_Faith] Fé em cada cidade sem ele.</Text>
+		</Row>
+		<!--DISTRICTS-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_NAME" Language="pt_BR">
+			<Text>Nexus Outromundial</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_DESCRIPTION" Language="pt_BR">
+			<Text>Um novo e único distrito de Black Rock que é pré-requisito para a unidade de Infantaria Black Rock e os rendimentos de bônus outromundiais [ICON_Science][ICON_Production][ICON_Gold] para o traço de civilização Dois Mundos. Fornece vários bônus de adjacência. Bárbaros [ICON_Barbarian] outromundiais surgem do Outromundo quando a Black Rock Shooter entra em guerra e após a conclusão da construção do distrito. Unidades bárbaras são geradas aleatoriamente por classe de unidade a partir de uma tabela das unidades [ICON_Unit] mais fortes treinadas anteriormente pelo jogador.</Text>
+		</Row>
+		<!--ADJACENCIES-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+3 [ICON_Science] Bônus de adjacência de Ciência do distrito Nexus Outro Mundo.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_CULTURE_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+3 [ICON_Culture] Bônus de adjacência de Cultura do distrito Nexus Outro Mundo.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_NEGATIVE_GOLD_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>-2 [ICON_Gold] Bônus de adjacência de Ouro negativo do distrito Nexus Outro Mundo.</Text>
+		</Row>
+		<!--AQUEDUCT-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_FOOD_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+2 [ICON_Food] Bônus de adjacência de Comida do distrito Aqueduto.</Text>
+		</Row>
+		<!--CAMPUS-->
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+2 [ICON_Science] Bônus de adjacência de Ciência do distrito Campus.</Text>
+		</Row>
+		<!--HOLY SITE-->
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+2 [ICON_Faith] Bônus de adjacência de Fé do distrito Sítio Sagrado.</Text>
+		</Row>
+		<!--COMMERCIAL HUB-->
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_GOLD_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+2 [ICON_Gold] Bônus de adjacência de Ouro do distrito Centro Comercial.</Text>
+		</Row>
+		<!--INDUSTRIAL ZONE-->
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_PRODUCTION_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+2 [ICON_Production] Bônus de adjacência de Produção do distrito Zona Industrial.</Text>
+		</Row>
+		<!--THEATER-->
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+2 [ICON_Culture] Bônus de adjacência de Cultura do distrito Teatro.</Text>
+		</Row>
+		<!--HARBOR-->
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+1 [ICON_Gold] Bônus de adjacência de Ouro do distrito Porto.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_FOOD_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+1 [ICON_Food] Bônus de adjacência de Comida do distrito Porto.</Text>
+		</Row>
+		<!--Encampment-->
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_PRODUCTION_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+1 [ICON_Production] Bônus de adjacência de Produção do distrito Acampamento.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_GOLD_ADJACENCY_DESCRIPTION" Language="pt_BR">
+			<Text>+1 [ICON_Gold] Bônus de adjacência de Ouro do distrito Acampamento.</Text>
+		</Row>
+		<!--UNITS-->
+		<!--BRI-->
+		<Row Tag="LOC_UNIT_SGA_BRS_BRI_NAME" Language="pt_BR">
+			<Text>Infantaria Black Rock</Text>
+		</Row>
+		<Row Tag="LOC_SGA_BRS_BRI_DESCRIPTION" Language="pt_BR">
+			<Text>Uma unidade única Black Rock que substitui a unidade de Infantaria Mecanizada e possui uma árvore de promoção Black Rock única. Requer o distrito Nexus Outro Mundo [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS].</Text>
+		</Row>
+		<!--UNIT PROMOTIONS AND ABILITIES-->
+		<!--PROMOTIONS-->
+		<!--PROMOTION CLASSES-->
+		<Row Tag="PROMOTION_CLASS_SGA_BRS_BLACK_ROCK_INFANTRY_NAME" Language="pt_BR">
+			<Text>Black Rock</Text>
+		</Row>
+		<!--UNIT PROMOTIONS-->
+		<!--HUNTER KILLER PROMOTIONS-->
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_NAME" Language="pt_BR">
+			<Text>Defesa da Pátria</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_DESCRIPTION" Language="pt_BR">
+			<Text>+3 [ICON_Strength] Força de Combate quando em território natal.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_NAME" Language="pt_BR">
+			<Text>Atacar e Mover</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_DESCRIPTION" Language="pt_BR">
+			<Text>Permite movimento após atacar em território inimigo, se houver movimento suficiente restante.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_NAME" Language="pt_BR">
+			<Text>Alcance da Pátria</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_DESCRIPTION" Language="pt_BR">
+			<Text>+1 [ICON_Range] Alcance quando em território natal.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_NAME" Language="pt_BR">
+			<Text>Cura por turno</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_DESCRIPTION" Language="pt_BR">
+			<Text>Cura 25 HP por turno quando em território natal.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_NAME" Language="pt_BR">
+			<Text>Movimento</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_DESCRIPTION" Language="pt_BR">
+			<Text>+1 [ICON_Movement] Movimento quando em território inimigo.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_NAME" Language="pt_BR">
+			<Text>Cura em combate</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_DESCRIPTION" Language="pt_BR">
+			<Text>+50 HP após matar uma unidade inimiga em território inimigo.</Text>
+		</Row>
+		<!--MODIFIER STRINGS-->
+		<Row Tag="LOC_BRI_COMBAT_DESCRIPTION" Language="pt_BR">
+			<Text>+3 da promoção Black Rock Combat.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_BURNING_EYE_COMBAT_DESCRIPTION" Language="pt_BR">
+			<Text>+{3_Amount} da habilidade líder Olho Ardente.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_TWO_WORLDS_COMBAT_DESCRIPTION" Language="pt_BR">
+			<Text>+{3_Amount} da habilidade civilização Dois Mundos.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_CULTURE_DESCRIPTION" Language="pt_BR">
+			<Text>+{1_Amount} sem Nexus Outro Mundo.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FOOD_DESCRIPTION" Language="pt_BR">
+			<Text>+{1_Amount} sem Nexus Outro Mundo.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FAITH_DESCRIPTION" Language="pt_BR">
+			<Text>+{1_Amount} sem Nexus Outro Mundo.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_SCIENCE_DESCRIPTION" Language="pt_BR">
+			<Text>+{1_Amount} com Nexus Outro Mundo.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_PRODUCTION_DESCRIPTION" Language="pt_BR">
+			<Text>+{1_Amount} com Nexus Outro Mundo.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_GOLD_DESCRIPTION" Language="pt_BR">
+			<Text>+{1_Amount} com Nexus Outro Mundo.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e4a630c4-9b66-464c-b830-8f645e8d47aa" version="1">
+  <Properties>
+    <Name>Black Rock Shooter</Name>
+    <Description>This mod adds the Black Rock Shooter from a Japanese media franchise based on characters created by illustrator Ryohei Fuke, also known as Huke.[NEWLINE]Compatible with Vanilla, RF and GS.[NEWLINE]Also try Skynet Expanded and Skynet Lite!</Description>
+    <Created>1706042652</Created>
+    <Teaser>Black Rock Shooter</Teaser>
+    <Authors>Sanakan</Authors>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <FrontEndActions>
+    <UpdateDatabase id="NewAction">
+      <File>Core/BRS_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="NewAction">
+      <File>Icons/BRS_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateText id="NewAction">
+      <File>Text/BRS_GameText_Config.xml</File>
+      <File>Text/BRS_GameText_Diplomacy.xml</File>
+      <File>Text/BRS_GameText_Traits.xml</File>
+      <File>Text/BRS_GameText_Translations.xml</File>
+    </UpdateText>
+    <UpdateColors id="NewAction">
+      <File>Core/BRS_Colors.sql</File>
+    </UpdateColors>
+    <UpdateArt id="NewAction">
+      <File>Black Rock Shooter.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="NewAction">
+      <File>Core/BRS_Agendas.sql</File>
+      <File>Core/BRS_AI.sql</File>
+      <File>Core/BRS_Civilization.sql</File>
+      <File>Core/BRS_Districts.sql</File>
+      <File>Core/BRS_Leader.sql</File>
+      <File>Core/BRS_MomentIllustrations.sql</File>
+      <File>Core/BRS_Units.sql</File>
+      <File>Core/BRS_Notification.sql</File>
+      <File>Core/BRS_Trait_Properties.sql</File>
+    </UpdateDatabase>
+    <UpdateIcons id="NewAction">
+      <File>Icons/BRS_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateText id="NewAction">
+      <File>Text/BRS_GameText_Config.xml</File>
+      <File>Text/BRS_GameText_Diplomacy.xml</File>
+      <File>Text/BRS_GameText_Traits.xml</File>
+      <File>Text/BRS_GameText_Translations.xml</File>
+    </UpdateText>
+    <UpdateColors id="NewAction">
+      <File>Core/BRS_Colors.sql</File>
+    </UpdateColors>
+    <UpdateArt id="NewAction">
+      <File>Black Rock Shooter.dep</File>
+    </UpdateArt>
+    <AddGameplayScripts id="NewAction">
+      <File>Core/BRS_Burning_Eye.lua</File>
+      <File>Core/BRS_Otherworldly_Nexus.lua</File>
+      <File>Core/BRS_Two_Worlds.lua</File>
+    </AddGameplayScripts>
+    <AddUserInterfaces id="NewAction">
+      <Properties>
+        <Context>InGame</Context>
+      </Properties>
+      <File priority="-1">Core/BRS_Notifications.xml</File>
+    </AddUserInterfaces>
+    <ImportFiles id="NewAction">
+      <File priority="-1">Core/CityBannerManager_BRS.lua</File>
+    </ImportFiles>
+  </InGameActions>
+  <Files>
+    <File>Artdefs/Civilizations.artdef</File>
+    <File>Artdefs/Culture.artdef</File>
+    <File>Artdefs/Districts.artdef</File>
+    <File>Artdefs/LeaderFallbacks.artdef</File>
+    <File>Artdefs/Leaders.artdef</File>
+    <File>Artdefs/Units.artdef</File>
+    <File>Black Rock Shooter.dep</File>
+    <File>Core/BRS_Agendas.sql</File>
+    <File>Core/BRS_AI.sql</File>
+    <File>Core/BRS_Burning_Eye.lua</File>
+    <File>Core/BRS_Civilization.sql</File>
+    <File>Core/BRS_Colors.sql</File>
+    <File>Core/BRS_Config.sql</File>
+    <File>Core/BRS_Districts.sql</File>
+    <File>Core/BRS_Leader.sql</File>
+    <File>Core/BRS_MomentIllustrations.sql</File>
+    <File>Core/BRS_Notification.sql</File>
+    <File>Core/BRS_Notifications.lua</File>
+    <File>Core/BRS_Notifications.xml</File>
+    <File>Core/BRS_Otherworldly_Nexus.lua</File>
+    <File>Core/BRS_Trait_Properties.sql</File>
+    <File>Core/BRS_Two_Worlds.lua</File>
+    <File>Core/BRS_Units.sql</File>
+    <File>Core/CityBannerManager_BRS.lua</File>
+    <File>Core/CityBannerManager_BRS.xml</File>
+    <File>Icons/BRS_Icons.xml</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Text/BRS_GameText_Config.xml</File>
+    <File>Text/BRS_GameText_Diplomacy.xml</File>
+    <File>Text/BRS_GameText_Traits.xml</File>
+    <File>Text/BRS_GameText_Translations.xml</File>
+    <File>XLPs/Atlas.xlp</File>
+    <File>XLPs/LeaderFallbacks.xlp</File>
+    <File>XLPs/UILeaders.xlp</File>
+  </Files>
+</Mod>

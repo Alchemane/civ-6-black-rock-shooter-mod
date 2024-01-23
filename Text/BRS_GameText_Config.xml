@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_NAME" Language="en_US">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION" Language="en_US">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_ADJECTIVE" Language="en_US">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SGA_BRS_DESCRIPTION_SGA_CIVILIZATION" Language="en_US">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_SGA_BRS_LOCATION" Language="en_US">
+			<Text>Otherworld</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_POPULATION" Language="en_US">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_SIZE" Language="en_US">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SGA_BRS_CAPITAL" Language="en_US">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SGA_BRS_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Unknown</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_1" Language="en_US">
+			<Text>Hollow World</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_2" Language="en_US">
+			<Text>Kyoto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_3" Language="en_US">
+			<Text>Osaka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_4" Language="en_US">
+			<Text>Hiroshima</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_5" Language="en_US">
+			<Text>Sapporo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_6" Language="en_US">
+			<Text>Nagoya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_7" Language="en_US">
+			<Text>Fukuoka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_8" Language="en_US">
+			<Text>Kobe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_9" Language="en_US">
+			<Text>Yokohama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_10" Language="en_US">
+			<Text>Sendai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_11" Language="en_US">
+			<Text>Nara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_12" Language="en_US">
+			<Text>Kanazawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_13" Language="en_US">
+			<Text>Nagasaki </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_14" Language="en_US">
+			<Text>Okinawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_15" Language="en_US">
+			<Text>Saitama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_16" Language="en_US">
+			<Text>Kumamoto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_17" Language="en_US">
+			<Text>Takayama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_18" Language="en_US">
+			<Text>Hakodate</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_19" Language="en_US">
+			<Text>Kagoshima</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_20" Language="en_US">
+			<Text>Matsuyama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_21" Language="en_US">
+			<Text>Black Rock Shooter's Battlefield</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_22" Language="en_US">
+			<Text>Chariot's Land</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_23" Language="en_US">
+			<Text>Dead Master's Lair</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_24" Language="en_US">
+			<Text>Tokyo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SGA_BRS_25" Language="en_US">
+			<Text>Otherworld</Text>
+		</Row>
+		<!--CITIZENS-->
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MALE_1" Language="en_US">
+			<Text>Some guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_MALE_1" Language="en_US">
+			<Text>A dude</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_FEMALE_1" Language="en_US">
+			<Text>Mato Kuroi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SGA_BRS_MODERN_FEMALE_1" Language="en_US">
+			<Text>Stella</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SGA_BRS_NAME" Language="en_US">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SGA_BRS" Language="en_US">
+			<Text>Black Rock Shooter, guardian of a world shrouded in mystery, your strength is a beacon in the darkness. Will you harness the power of the unknown to lead your people to greatness?</Text>
+		</Row>
+		<!--CIVILOPDEIA-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_TITLE" Language="en_US">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_SUBTITLE" Language="en_US">
+			<Text>Black Rock Shooter</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_QUOTE" Language="en_US">
+			<Text>I'm going to keep fighting. I have to embrace these wounds, this pain. Because my fight won't end... until my world does.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SGA_BRS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Unkown</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

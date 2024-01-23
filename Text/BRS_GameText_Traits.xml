@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Skynet_GameText_Traits -->
+<!-- Author: Safeguard -->
+<!-- DateCreated: 3/31/2023 8:50:35 PM -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER TRAIT-->
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_NAME" Language="en_US">
+			<Text>Burning Eye</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SGA_LEADER_BRS_BURNING_EYE_DESCRIPTION" Language="en_US">
+			<Text>The Black Rock Shooter's Burning Eye ability is activated on the turn she engages in war, which provides +10 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to all [ICON_Unit] units, and lasts 1 [ICON_Turn] Turn. For every enemy [ICON_Unit] Unit killed, the Burning Eye ability is incremented by +1 [ICON_Turn] Turn.</Text>
+		</Row>
+		<!--NOTIFICATION-->
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_TITLE" Language="en_US">
+			<Text>Burning Eye active ability</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BURNING_EYE_MESSAGE" Language="en_US">
+			<Text>Your units gain +{1_Amount} [ICON_Strength] Combat Strength and +{2_Amount} [ICON_Movement] Movement boosts for {3_Amount} [ICON_Turn] Turns.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_TITLE" Language="en_US">
+			<Text>Two Worlds passive ability</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TWO_WORLDS_MESSAGE" Language="en_US">
+			<Text>Your military [ICON_Unit] units in enemy territory are receiving a +{1_Amount} [ICON_Strength] Combat Strength bonus this turn.</Text>
+		</Row>
+		<!--CIVILIZATION TRAIT-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_NAME" Language="en_US">
+			<Text>Two Worlds</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SGA_BRS_TWO_WORLDS_DESCRIPTION" Language="en_US">
+			<Text>Military [ICON_Unit] Units in enemy territories gain a [ICON_Strength] Combat bonus equal to the number of military [ICON_Unit] Units in the Black Rock Shooter's territory. Gain +20% [ICON_Science] Science, [ICON_Production] Production, and [ICON_Gold] Gold to each city with an Otherworldly Nexus [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS] District, and +20% [ICON_Culture] Culture, [ICON_Food] Food, [ICON_Faith] Faith to each city without.</Text>
+		</Row>
+		<!--DISTRICTS-->
+		<!--OTHWERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_NAME" Language="en_US">
+			<Text>Otherworldly Nexus</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_DESCRIPTION" Language="en_US">
+			<Text>A new and unique Black Rock district which comes as a prerequisite to the Black Rock Infantry unit and the otherworldly bonus [ICON_Science][ICON_Production][ICON_Gold] Yields for the Two Worlds Civilization Trait. Provides various adjacency bonuses. Otherworldly [ICON_Barbarian] Barbarians spawn from the Otherworld when the Black Rock Shooter engages in war and upon district construction completion. Barbarian units spawn randomly by unit class from a table of the strongest [ICON_Unit] units previously trained by the player.</Text>
+		</Row>
+		<!--ADJACENCIES-->
+		<!--OTHERWORLDLY NEXUS-->
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Science] Science adjacency bonus from Otherworldly Nexus district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_CULTURE_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Culture] Culture adjacency bonus from Otherworldly Nexus district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OTHERWORLDLY_NEXUS_NEGATIVE_GOLD_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>-2 [ICON_Gold] Gold adjacency bonus from Otherworldly Nexus district.</Text>
+		</Row>
+		<!--AQUEDUCT-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_FOOD_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Food] Food adjacency bonus from Aqueduct district.</Text>
+		</Row>
+		<!--CAMPUS-->
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Science] Science adjacency bonus from Campus district.</Text>
+		</Row>
+		<!--HOLY SITE-->
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Faith] Faith adjacency bonus from Holy Site district.</Text>
+		</Row>
+		<!--COMMERCIAL HUB-->
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_GOLD_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Gold] Gold adjacency bonus from Commercial Hub district.</Text>
+		</Row>
+		<!--INDUSTRIAL ZONE-->
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_PRODUCTION_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Production] Production adjacency bonus from Industrial Zone district.</Text>
+		</Row>
+		<!--THEATER-->
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Culture] Culture adjacency bonus from Theater district.</Text>
+		</Row>
+		<!--HARBOR-->
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold adjacency bonus from Harbor district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_FOOD_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Food] Food adjacency bonus from Harbor district.</Text>
+		</Row>
+		<!--Encampment-->
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_PRODUCTION_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production adjacency bonus from Encampment district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_GOLD_ADJACENCY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold adjacency bonus from Encampment district.</Text>
+		</Row>
+		<!--UNITS-->
+		<!--BRI-->
+		<Row Tag="LOC_UNIT_SGA_BRS_BRI_NAME" Language="en_US">
+			<Text>Black Rock Infantry</Text>
+		</Row>
+		<Row Tag="LOC_SGA_BRS_BRI_DESCRIPTION" Language="en_US">
+			<Text>A unique Black Rock unit which replaces the Mechanized Infantry unit, and has a unique Black Rock promotion tree. Requires the [ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS] Otherworldly Nexus district.</Text>
+		</Row>
+		<!--UNIT PROMOTIONS AND ABILITIES-->
+		<!--PROMOTIONS-->
+		<!--PROMOTION CLASSES-->
+		<Row Tag="PROMOTION_CLASS_SGA_BRS_BLACK_ROCK_INFANTRY_NAME" Language="en_US">
+			<Text>Black Rock</Text>
+		</Row>
+		<!--UNIT PROMOTIONS-->
+		<!--HUNTER KILLER PROMOTIONS-->
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_NAME" Language="en_US">
+			<Text>Homeland Defense</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_COMBAT_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Strength] Combat Strength when in home territory.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_NAME" Language="en_US">
+			<Text>Attack and Move</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_ATTACK_AND_MOVE_DESCRIPTION" Language="en_US">
+			<Text>Allows movement after attacking when in enemy territory, if there is enough movement left.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_NAME" Language="en_US">
+			<Text>Homeland Range</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_RANGE_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Range] Range when in home territory.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_NAME" Language="en_US">
+			<Text>Heal per turn</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_PER_TURN_DESCRIPTION" Language="en_US">
+			<Text>Heal 25 HP per turn when in home territory.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_NAME" Language="en_US">
+			<Text>Movement</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] Movement when in enemy territory.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_NAME" Language="en_US">
+			<Text>Heal in combat</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SGA_BRS_BRI_HEAL_IN_COMBAT_DESCRIPTION" Language="en_US">
+			<Text>+50 HP after killing an enemy unit in enemy territory.</Text>
+		</Row>
+		<!--MODIFIER STRINGS-->
+		<Row Tag="LOC_BRI_COMBAT_DESCRIPTION" Language="en_US">
+			<Text>+3 from Black Rock Combat promotion.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_BURNING_EYE_COMBAT_DESCRIPTION" Language="en_US">
+			<Text>+{3_Amount} from Burning Eye leader ability.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_TWO_WORLDS_COMBAT_DESCRIPTION" Language="en_US">
+			<Text>+{3_Amount} from Two Worlds civilization ability.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_CULTURE_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} from no Otherworldly Nexus.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FOOD_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} from no Otherworldly Nexus.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_FAITH_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} from no Otherworldly Nexus.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_SCIENCE_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} from Otherworldly Nexus.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_PRODUCTION_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} from Otherworldly Nexus.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MODIFIER_GOLD_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} from Otherworldly Nexus.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

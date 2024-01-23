@@ -1,0 +1,52 @@
+<!-- Author: Sanakan -->
+<GameInfo>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_LEADER_SGA_BRS" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SGA_BRS_32.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SGA_BRS" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SGA_BRS_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SGA_BRS" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SGA_BRS_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SGA_BRS" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SGA_BRS_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SGA_BRS" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SGA_BRS_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SGA_BRS" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SGA_BRS_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SGA_BRS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SGA_BRS_256.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_22.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_30.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_36.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_44.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_45.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_48.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_50.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_64.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_80.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_SGA_BRS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_SGA_BRS_256.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY_22.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY_32.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY_38.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY_50.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY_80.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY_256.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SGA_BRS_256.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SGA_BRS_128.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SGA_BRS_80.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SGA_BRS_50.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SGA_BRS_38.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SGA_BRS_32.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SGA_BRS_22.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_FOW" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SGA_BRS_FOW.dds"/>
+		<Row Name="ICON_ATLAS_NOTIFICATION_BRS_BURNING_EYE" IconSize="100" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_NOTIFICATION_BURNING_EYE_100.dds"/>
+		<Row Name="ICON_ATLAS_NOTIFICATION_BRS_BURNING_EYE" IconSize="40" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_NOTIFICATION_BURNING_EYE_40.dds"/>
+		<Row Name="ICON_ATLAS_NOTIFICATION_BRS_TWO_WORLDS" IconSize="100" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_NOTIFICATION_TWO_WORLDS_100.dds"/>
+		<Row Name="ICON_ATLAS_NOTIFICATION_BRS_TWO_WORLDS" IconSize="40" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_NOTIFICATION_TWO_WORLDS_40.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICT_SGA_BRS_FONT" Baseline="4" IconSize="22"	Filename="ICON_DISTRICT_SGA_BRS_FONT.dds"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_LEADER_SGA_BRS" Atlas="ICON_ATLAS_LEADER_SGA_BRS" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_SGA_BRS" Atlas="ICON_ATLAS_CIVILIZATION_SGA_BRS" Index="0"/>
+		<Row Name="ICON_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY" Atlas="ICON_ATLAS_UNIT_SGA_BRS_BLACK_ROCK_INFANTRY" Index="0"/>
+		<Row Name="ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" Atlas="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" Index="0"/>
+		<Row Name="ICON_NOTIFICATION_BURNING_EYE" Atlas="ICON_ATLAS_NOTIFICATION_BRS_BURNING_EYE" Index="0"/>
+		<Row Name="ICON_NOTIFICATION_TWO_WORLDS" Atlas="ICON_ATLAS_NOTIFICATION_BRS_TWO_WORLDS" Index="0"/>
+		<Row Name="ICON_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_FOW" Atlas="ICON_ATLAS_DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS_FOW" Index="0"/>
+		<Row Name="DISTRICT_SGA_BRS_OTHERWORLDLY_NEXUS" Atlas="ICON_ATLAS_DISTRICT_SGA_BRS_FONT" Index="0"/>
+	</IconDefinitions>
+</GameInfo>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BRS_GameText_Diplomacy -->
+<!-- Author: Sanakan -->
+<!-- DateCreated: 3/31/2023 8:46:06 PM -->
+<GameData>
+	<LocalizedText>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"..." (A silent nod from Black Rock Shooter acknowledges your presence, her gaze intense yet distant.)</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"See for yourself." (Her words are few, but her gesture towards her city is an unmistakable invitation.)</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"I will come." (Her response is concise, yet there's a hint of curiosity in her tone.)</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Exchange?" (Her single word is a clear, though quiet, offer to exchange capital information.)</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Hello." (A simple greeting, yet her eyes seem to communicate much more.)</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Accepted." (Her voice is low but clear, accepting your delegation with a nod.)</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Not now." (Her words are few, her refusal polite but firm.)</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Gifts..." (Black Rock Shooter sends a silent envoy bearing gifts.)</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Agreed." (Her response is succinct, granting you access to her lands with a nod.)</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"No." (A single word, her refusal to open her borders is clear and unyielding.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Borders...?" (Her single word is a clear, if terse, request for open borders.)</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Friendship... accepted." (Her voice is soft, almost a whisper, as she accepts your offer of friendship.)</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Not now." (Her response is BLACK_ROCK_INFANTRYef, indicating a refusal of your friendship without further explanation.)</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"I trust you. Join me?" (Her voice is quiet but firm, extending an offer of friendship with a rare hint of warmth.)</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Thank you." (A simple, quiet acknowledgment of your acceptance of her friendship.)</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Hmm..." (A low, contemplative hum, as if she's both amused and intrigued by the player's refusal.)</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Let's stand together...?" (Her voice is low but clear, as she extends a hand for an alliance.)</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Good." (A BLACK_ROCK_INFANTRYef nod and a single word from Black Rock Shooter convey her approval of your actions.)</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Careful." (Her cold stare and single word serve as a warning that you're treading a dangerous path.)</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Explain." (Her gaze hardens as she looks towards your troops at her border, demanding an explanation.)</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Agreed." (A slight nod and a word from Black Rock Shooter indicate her acceptance of the trade deal.)</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"No deal." (Her words are few, but her refusal to accept the trade deal is clear.)</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"So be it." (Black Rock Shooter's unflinching gaze meets your denouncement with a calm yet firm response.)</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Unwise." (In a rare display of emotion, Black Rock Shooter's eyes narrow, her denouncement concise and clear.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Oh, good..." (Black Rock Shooter's eyes flare with the blue flame.)</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"No turning back." (With a determined glare, Black Rock Shooter readies her cannon, her words foreboding as she declares war.)</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Agreed." (In a rare moment of concession, Black Rock Shooter gives a slight nod, agreeing to a truce.)</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Not yet." (Black Rock Shooter remains unmoved, her words indicating the war is far from over.)</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"Truce?" (Black Rock Shooter, with a rare gesture of diplomacy, extends a hand, offering a silent truce.)</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>"..." (In defeat, Black Rock Shooter stands resolute, her silence conveying a stoic acceptance of her fate.)</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SGA_BRS_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SGA_BRS_ANY]</Text>
+		</Row>
+		<!--AI CUSTOM-->
+		<!--AGENDA-->
+		<Row Tag="LOC_AGENDA_BRS_NAME" Language="en_US">
+			<Text>Eternal Blue Flame</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BRS_DESCRIPTION" Language="en_US">
+			<Text>Black Rock Shooter's Eternal Blue Flame agenda is a conglomeration of the following traits: Player Friend Denounced, Ignore Warmongering, High Standing Army, With Shield or On It, Nuke Hate, Not Warmongering, Is Warmongering, Remember War, and Remember Friends.</Text>
+		</Row>
+		<!--AGENDA TRAIT-->
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_NAME" Language="en_US">
+			<Text>Eternal Blue Flame</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_SGA_BRS_UNIQUE_AGENDA_DESCRIPTION" Language="en_US">
+			<Text>Placeholder text</Text>
+		</Row>
+		<!--PLAYER FRIEND DENOUNCED-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED" Language="en_US">
+			<Text>"Unwise..." (Her burning gaze intensifies, a warning against hostility towards her allies.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_PLAYER_FRIEND_DENOUNCED_DESCRIPTION" Language="en_US">
+			<Text>You have denounced a friend of Black Rock Shooter.</Text>
+		</Row>
+		<!--HIGH STANDING ARMY-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY" Language="en_US">
+			<Text>"..." (A nod of respect from Black Rock Shooter acknowledges your formidable army, recognizing a worthy potential ally or adversary.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_HIGH_STANDING_ARMY_DESCRIPTION" Language="en_US">
+			<Text>Your strong military presence has earned Black Rock Shooter's respect.</Text>
+		</Row>
+		<!--WITH YOUR SHIELD OR ON IT-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT" Language="en_US">
+			<Text>"..." (Black Rock Shooter's gaze hardens, her silence a clear expression of disappointment in your lack of resolve in the face of adversaries.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_WITH_SHIELD_OR_ON_IT_DESCRIPTION" Language="en_US">
+			<Text>Your decision to yield rather than fight has not gone unnoticed by Black Rock Shooter.</Text>
+		</Row>
+		<!--NOT WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER" Language="en_US">
+			<Text>"..." (Her distant gazes at you shows you she is at ease.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_NOT_WARMONGER_DESCRIPTION" Language="en_US">
+			<Text>Black Rock Shooter values your peaceful stance in global affairs.</Text>
+		</Row>
+		<!--WARMONGER-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER" Language="en_US">
+			<Text>... (She gazes at you with a hint of unease.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_WARMONGER_DESCRIPTION" Language="en_US">
+			<Text>Black Rock Shooter doesn't know whether to view you as an adversary, or a strong ally.</Text>
+		</Row>
+		<!--REMEMBERS WAR-->
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR" Language="en_US">
+			<Text>Unforgivable... (She most likely hates you.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BRS_REMEMBER_WAR_DESCRIPTION" Language="en_US">
+			<Text>Black Rock Shooter remembers your transgressions and sees you as a potential threat forever.</Text>
+		</Row>
+		<!--REMEMBERS FRIEND-->
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND" Language="en_US">
+			<Text>(Black Rock Shooter remembers your friendship)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_BRS_REMEMBER_FRIEND_DESCRIPTION" Language="en_US">
+			<Text>Black Rock Shooter remembers your friendship.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
